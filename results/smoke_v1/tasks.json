@@ -1,0 +1,192 @@
+[
+  {
+    "task_id": "square_circle_n11__rigid__00",
+    "instance": {
+      "id": "square_circle_n11",
+      "container": "circle",
+      "objective": "min_radius",
+      "n": 11,
+      "catalogue_display": "2.21386+",
+      "split": "development",
+      "source": "https://erich-friedman.github.io/packing/squincir/",
+      "full_incumbent": "not_imported"
+    },
+    "arm": "rigid",
+    "seed": 321828,
+    "seconds": 4.0,
+    "warm_path": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\baselines\\square_circle_n11.json",
+    "warm_sha256": "09d501554215872b0760c88f960e28bf12dae57083a8a1d649522ba8e82ffca1",
+    "output": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\smoke_v1\\runs\\square_circle_n11__rigid__00.json"
+  },
+  {
+    "task_id": "square_circle_n11__basin__00",
+    "instance": {
+      "id": "square_circle_n11",
+      "container": "circle",
+      "objective": "min_radius",
+      "n": 11,
+      "catalogue_display": "2.21386+",
+      "split": "development",
+      "source": "https://erich-friedman.github.io/packing/squincir/",
+      "full_incumbent": "not_imported"
+    },
+    "arm": "basin",
+    "seed": 321828,
+    "seconds": 4.0,
+    "warm_path": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\baselines\\square_circle_n11.json",
+    "warm_sha256": "09d501554215872b0760c88f960e28bf12dae57083a8a1d649522ba8e82ffca1",
+    "output": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\smoke_v1\\runs\\square_circle_n11__basin__00.json"
+  },
+  {
+    "task_id": "square_circle_n11__anneal__00",
+    "instance": {
+      "id": "square_circle_n11",
+      "container": "circle",
+      "objective": "min_radius",
+      "n": 11,
+      "catalogue_display": "2.21386+",
+      "split": "development",
+      "source": "https://erich-friedman.github.io/packing/squincir/",
+      "full_incumbent": "not_imported"
+    },
+    "arm": "anneal",
+    "seed": 321828,
+    "seconds": 4.0,
+    "warm_path": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\baselines\\square_circle_n11.json",
+    "warm_sha256": "09d501554215872b0760c88f960e28bf12dae57083a8a1d649522ba8e82ffca1",
+    "output": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\smoke_v1\\runs\\square_circle_n11__anneal__00.json"
+  },
+  {
+    "task_id": "square_circle_n11__homotopy__00",
+    "instance": {
+      "id": "square_circle_n11",
+      "container": "circle",
+      "objective": "min_radius",
+      "n": 11,
+      "catalogue_display": "2.21386+",
+      "split": "development",
+      "source": "https://erich-friedman.github.io/packing/squincir/",
+      "full_incumbent": "not_imported"
+    },
+    "arm": "homotopy",
+    "seed": 321828,
+    "seconds": 4.0,
+    "warm_path": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\baselines\\square_circle_n11.json",
+    "warm_sha256": "09d501554215872b0760c88f960e28bf12dae57083a8a1d649522ba8e82ffca1",
+    "output": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\smoke_v1\\runs\\square_circle_n11__homotopy__00.json"
+  },
+  {
+    "task_id": "square_circle_n11__structured__00",
+    "instance": {
+      "id": "square_circle_n11",
+      "container": "circle",
+      "objective": "min_radius",
+      "n": 11,
+      "catalogue_display": "2.21386+",
+      "split": "development",
+      "source": "https://erich-friedman.github.io/packing/squincir/",
+      "full_incumbent": "not_imported"
+    },
+    "arm": "structured",
+    "seed": 321828,
+    "seconds": 4.0,
+    "warm_path": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\baselines\\square_circle_n11.json",
+    "warm_sha256": "09d501554215872b0760c88f960e28bf12dae57083a8a1d649522ba8e82ffca1",
+    "output": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\smoke_v1\\runs\\square_circle_n11__structured__00.json"
+  },
+  {
+    "task_id": "square_triangle_n8__rigid__00",
+    "instance": {
+      "id": "square_triangle_n8",
+      "container": "equilateral_triangle",
+      "objective": "min_side_length",
+      "n": 8,
+      "catalogue_display": "5.301+",
+      "split": "development",
+      "source": "https://erich-friedman.github.io/packing/squintri/",
+      "full_incumbent": "not_imported"
+    },
+    "arm": "rigid",
+    "seed": 271828,
+    "seconds": 4.0,
+    "warm_path": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\baselines\\square_triangle_n8.json",
+    "warm_sha256": "1119098bfb89bd21b3bb1d358e60592084d25407108087fce72d5009d92c2859",
+    "output": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\smoke_v1\\runs\\square_triangle_n8__rigid__00.json"
+  },
+  {
+    "task_id": "square_triangle_n8__basin__00",
+    "instance": {
+      "id": "square_triangle_n8",
+      "container": "equilateral_triangle",
+      "objective": "min_side_length",
+      "n": 8,
+      "catalogue_display": "5.301+",
+      "split": "development",
+      "source": "https://erich-friedman.github.io/packing/squintri/",
+      "full_incumbent": "not_imported"
+    },
+    "arm": "basin",
+    "seed": 271828,
+    "seconds": 4.0,
+    "warm_path": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\baselines\\square_triangle_n8.json",
+    "warm_sha256": "1119098bfb89bd21b3bb1d358e60592084d25407108087fce72d5009d92c2859",
+    "output": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\smoke_v1\\runs\\square_triangle_n8__basin__00.json"
+  },
+  {
+    "task_id": "square_triangle_n8__anneal__00",
+    "instance": {
+      "id": "square_triangle_n8",
+      "container": "equilateral_triangle",
+      "objective": "min_side_length",
+      "n": 8,
+      "catalogue_display": "5.301+",
+      "split": "development",
+      "source": "https://erich-friedman.github.io/packing/squintri/",
+      "full_incumbent": "not_imported"
+    },
+    "arm": "anneal",
+    "seed": 271828,
+    "seconds": 4.0,
+    "warm_path": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\baselines\\square_triangle_n8.json",
+    "warm_sha256": "1119098bfb89bd21b3bb1d358e60592084d25407108087fce72d5009d92c2859",
+    "output": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\smoke_v1\\runs\\square_triangle_n8__anneal__00.json"
+  },
+  {
+    "task_id": "square_triangle_n8__homotopy__00",
+    "instance": {
+      "id": "square_triangle_n8",
+      "container": "equilateral_triangle",
+      "objective": "min_side_length",
+      "n": 8,
+      "catalogue_display": "5.301+",
+      "split": "development",
+      "source": "https://erich-friedman.github.io/packing/squintri/",
+      "full_incumbent": "not_imported"
+    },
+    "arm": "homotopy",
+    "seed": 271828,
+    "seconds": 4.0,
+    "warm_path": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\baselines\\square_triangle_n8.json",
+    "warm_sha256": "1119098bfb89bd21b3bb1d358e60592084d25407108087fce72d5009d92c2859",
+    "output": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\smoke_v1\\runs\\square_triangle_n8__homotopy__00.json"
+  },
+  {
+    "task_id": "square_triangle_n8__structured__00",
+    "instance": {
+      "id": "square_triangle_n8",
+      "container": "equilateral_triangle",
+      "objective": "min_side_length",
+      "n": 8,
+      "catalogue_display": "5.301+",
+      "split": "development",
+      "source": "https://erich-friedman.github.io/packing/squintri/",
+      "full_incumbent": "not_imported"
+    },
+    "arm": "structured",
+    "seed": 271828,
+    "seconds": 4.0,
+    "warm_path": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\baselines\\square_triangle_n8.json",
+    "warm_sha256": "1119098bfb89bd21b3bb1d358e60592084d25407108087fce72d5009d92c2859",
+    "output": "C:\\Users\\user\\Desktop\\GitHub\\PackingShapes\\results\\smoke_v1\\runs\\square_triangle_n8__structured__00.json"
+  }
+]

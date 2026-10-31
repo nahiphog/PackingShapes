@@ -1,0 +1,79 @@
+{
+  "instance_id": "square_circle_n11",
+  "shape": "unit_square",
+  "container": "circle",
+  "n": 11,
+  "size": 2.213866926151613,
+  "pieces": [
+    {
+      "x": 1.141382153415367,
+      "y": 1.0849691004128539,
+      "theta": -0.555539914484583
+    },
+    {
+      "x": 0.10943680635923643,
+      "y": 1.653047083571593,
+      "theta": -0.06610663734528544
+    },
+    {
+      "x": 1.5251293522446274,
+      "y": -0.1929217347860144,
+      "theta": -0.5555399342024658
+    },
+    {
+      "x": 0.5567581694100892,
+      "y": 0.2708739817360463,
+      "theta": -0.555539914484583
+    },
+    {
+      "x": -0.9232851187233829,
+      "y": 1.1918467496630678,
+      "theta": -0.06610663734528544
+    },
+    {
+      "x": -0.6443349327298001,
+      "y": 0.13086330783861333,
+      "theta": -0.15021906519184913
+    },
+    {
+      "x": 1.1189408551866464,
+      "y": -1.117781337956341,
+      "theta": -0.5555399243435244
+    },
+    {
+      "x": 0.20779154835288935,
+      "y": -0.6895062993474871,
+      "theta": -0.555539914484583
+    },
+    {
+      "x": -1.6380044068473902,
+      "y": 0.24793892255291938,
+      "theta": -0.1502190645292174
+    },
+    {
+      "x": -1.2040455969856814,
+      "y": -0.987563691123538,
+      "theta": -0.555539914484583
+    },
+    {
+      "x": -0.3555688969174457,
+      "y": -1.5168008380012512,
+      "theta": -0.555539914484583
+    }
+  ],
+  "provenance": {
+    "kind": "source_derived_warm_start",
+    "source": "https://minmaxarena.com/data/tilted-squares-in-circle.json",
+    "source_instance": "p05-n11-v2",
+    "source_generated_at": "2026-10-30T03:31:35.676Z",
+    "source_holder": "zzzcy",
+    "source_method": "ai",
+    "source_recorded_at": "2026-10-05T16:12:04.287Z",
+    "source_sha256": "dcdde6596727278445f190ca38a85ee0de4fb952c9bc5b9ae4999dbacbeb0fb9",
+    "license": "CC-BY-4.0",
+    "attribution": "MinMax Arena and the named record holder; originating construction credited separately by Erich Friedman catalogue",
+    "transformation": "Subtract circle center (1,1); divide centers and radius by the shortest published square side; replace every square by a concentric unit square in its published orientation. Floating seed only; exact checker must repair and certify.",
+    "certification": "not_certified",
+    "original_full_precision_incumbent": false
+  }
+}

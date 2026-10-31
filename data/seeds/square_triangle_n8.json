@@ -1,0 +1,62 @@
+{
+  "instance_id": "square_triangle_n8",
+  "shape": "unit_square",
+  "container": "equilateral_triangle",
+  "n": 8,
+  "size": 5.301,
+  "pieces": [
+    {
+      "x": -0.1112017733564016,
+      "y": 3.40713062283737,
+      "theta": -0.540419500270584
+    },
+    {
+      "x": -0.6179150086505187,
+      "y": 2.530126946366782,
+      "theta": -0.540419500270584
+    },
+    {
+      "x": 0.4620032439446363,
+      "y": 2.400582612456747,
+      "theta": -0.540419500270584
+    },
+    {
+      "x": -1.1246282439446367,
+      "y": 1.6531232698961935,
+      "theta": -0.540419500270584
+    },
+    {
+      "x": 0.5846691176470589,
+      "y": 1.2083161764705883,
+      "theta": 0
+    },
+    {
+      "x": -0.4248595588235296,
+      "y": 0.6119536764705888,
+      "theta": 0.32175055439664213
+    },
+    {
+      "x": -1.5786066176470588,
+      "y": 0.48722426470588237,
+      "theta": 0
+    },
+    {
+      "x": 1.5786066176470588,
+      "y": 0.48722426470588237,
+      "theta": 0
+    }
+  ],
+  "provenance": {
+    "kind": "figure_digitization_warm_start",
+    "source": "https://erich-friedman.github.io/packing/squintri/ts8.gif",
+    "source_sha256": "2fc8c020c906b1eb62d0b5925ab69c29cc546f443bfb7d535ec563e4b209e93c",
+    "source_author": "David W. Cantrell",
+    "source_date": "2002-07",
+    "method": "Flood-fill the 181-gray connected regions; fit minimum-area rectangles to pixel convex hulls; use black outer triangle extent and truncated published side to initialize scale.",
+    "pixel_scale": 25.655536691190342,
+    "license": "Original figure licence unspecified; derived geometry and attribution retained for research.",
+    "certification": "not_certified",
+    "original_full_precision_incumbent": false,
+    "warning": "Raster positions and orientation are approximate and may overlap. Polishing and exact repair are mandatory."
+  }
+}

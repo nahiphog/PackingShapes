@@ -1,0 +1,582 @@
+[
+  {
+    "instance_id": "square_circle_n11",
+    "source_file": "data\\seeds\\square_circle_n11.json",
+    "purpose": "Deterministic reconstruction of published source; no randomized search.",
+    "variants": [
+      {
+        "variant": "source_direct",
+        "numeric_best": 2.2138668451802004,
+        "last_size": 2.2138668461333295,
+        "last_min_constraint": -1.084687895058778e-13,
+        "iterations": 182,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.75
+      },
+      {
+        "variant": "source_fixed",
+        "numeric_best": 2.213866845050766,
+        "last_size": 2.213866846133582,
+        "last_min_constraint": -7.549516567451064e-15,
+        "iterations": 51,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.328125
+      },
+      {
+        "variant": "snap_pi6",
+        "numeric_best": 2.213866845050766,
+        "last_size": 2.213866846133582,
+        "last_min_constraint": -7.549516567451064e-15,
+        "iterations": 51,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.296875
+      },
+      {
+        "variant": "snap_pi4",
+        "numeric_best": 2.213866845050766,
+        "last_size": 2.213866846133582,
+        "last_min_constraint": -7.549516567451064e-15,
+        "iterations": 51,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.34375
+      },
+      {
+        "variant": "snap_both",
+        "numeric_best": 2.213866845050766,
+        "last_size": 2.213866846133582,
+        "last_min_constraint": -7.549516567451064e-15,
+        "iterations": 51,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.296875
+      }
+    ],
+    "best_size": 2.213866845050766
+  },
+  {
+    "instance_id": "square_circle_n13",
+    "source_file": "data\\seeds\\square_circle_n13.json",
+    "purpose": "Deterministic reconstruction of published source; no randomized search.",
+    "variants": [
+      {
+        "variant": "source_direct",
+        "numeric_best": 2.360707545148003,
+        "last_size": 2.3607075455340576,
+        "last_min_constraint": -7.238654120556021e-14,
+        "iterations": 174,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.875
+      },
+      {
+        "variant": "source_fixed",
+        "numeric_best": 2.3607075452046775,
+        "last_size": 2.360707545534031,
+        "last_min_constraint": -2.241540286718191e-13,
+        "iterations": 90,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.5
+      },
+      {
+        "variant": "snap_pi6",
+        "numeric_best": 2.3607075452046775,
+        "last_size": 2.360707545534031,
+        "last_min_constraint": -2.241540286718191e-13,
+        "iterations": 90,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.484375
+      },
+      {
+        "variant": "snap_pi4",
+        "numeric_best": 2.3607075451751514,
+        "last_size": 2.360707545533968,
+        "last_min_constraint": -2.084998840246044e-13,
+        "iterations": 112,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.625
+      },
+      {
+        "variant": "snap_both",
+        "numeric_best": 2.3607075451751514,
+        "last_size": 2.360707545533968,
+        "last_min_constraint": -2.084998840246044e-13,
+        "iterations": 112,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.578125
+      }
+    ],
+    "best_size": 2.360707545148003
+  },
+  {
+    "instance_id": "square_circle_n15",
+    "source_file": "data\\seeds\\square_circle_n15.json",
+    "purpose": "Deterministic reconstruction of published source; no randomized search.",
+    "variants": [
+      {
+        "variant": "source_direct",
+        "numeric_best": 2.5331389585271666,
+        "last_size": 2.5331389587514153,
+        "last_min_constraint": -3.4294789230671086e-13,
+        "iterations": 179,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.859375
+      },
+      {
+        "variant": "source_fixed",
+        "numeric_best": 2.533139134664233,
+        "last_size": 2.5334490899965956,
+        "last_min_constraint": -1.0941247907680918e-10,
+        "iterations": 459,
+        "success": false,
+        "status": "Positive directional derivative for linesearch",
+        "cpu_seconds": 1.625
+      },
+      {
+        "variant": "snap_pi6",
+        "numeric_best": 2.5331389587037094,
+        "last_size": 2.533138958751416,
+        "last_min_constraint": -2.7045032879868813e-13,
+        "iterations": 252,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.859375
+      },
+      {
+        "variant": "snap_pi4",
+        "numeric_best": 2.5331389587037094,
+        "last_size": 2.533138958751416,
+        "last_min_constraint": -2.7045032879868813e-13,
+        "iterations": 252,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 1.09375
+      },
+      {
+        "variant": "snap_both",
+        "numeric_best": 2.5331389587037094,
+        "last_size": 2.533138958751416,
+        "last_min_constraint": -2.7045032879868813e-13,
+        "iterations": 252,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 1.453125
+      }
+    ],
+    "best_size": 2.5331389585271666
+  },
+  {
+    "instance_id": "square_circle_n18",
+    "source_file": "data\\seeds\\square_circle_n18.json",
+    "purpose": "Deterministic reconstruction of published source; no randomized search.",
+    "variants": [
+      {
+        "variant": "source_direct",
+        "numeric_best": 2.7414640249324003,
+        "last_size": 2.741456790164366,
+        "last_min_constraint": -1.3020464744273319e-05,
+        "iterations": 315,
+        "success": false,
+        "status": "Positive directional derivative for linesearch",
+        "cpu_seconds": 2.203125
+      },
+      {
+        "variant": "source_fixed",
+        "numeric_best": 2.741464024637796,
+        "last_size": 2.7414640249326645,
+        "last_min_constraint": -9.57456336436735e-13,
+        "iterations": 273,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 2.078125
+      },
+      {
+        "variant": "snap_pi6",
+        "numeric_best": 2.741464024213921,
+        "last_size": 2.7414640249315365,
+        "last_min_constraint": -1.4351786425947921e-09,
+        "iterations": 600,
+        "success": false,
+        "status": "Iteration limit reached",
+        "cpu_seconds": 5.828125
+      },
+      {
+        "variant": "snap_pi4",
+        "numeric_best": 2.741464024213921,
+        "last_size": 2.7414640249315365,
+        "last_min_constraint": -1.4351786425947921e-09,
+        "iterations": 600,
+        "success": false,
+        "status": "Iteration limit reached",
+        "cpu_seconds": 6.859375
+      },
+      {
+        "variant": "snap_both",
+        "numeric_best": 2.741464024213921,
+        "last_size": 2.7414640249315365,
+        "last_min_constraint": -1.4351786425947921e-09,
+        "iterations": 600,
+        "success": false,
+        "status": "Iteration limit reached",
+        "cpu_seconds": 6.859375
+      }
+    ],
+    "best_size": 2.741464024213921
+  },
+  {
+    "instance_id": "square_circle_n20",
+    "source_file": "data\\seeds\\square_circle_n20.json",
+    "purpose": "Deterministic reconstruction of published source; no randomized search.",
+    "variants": [
+      {
+        "variant": "source_direct",
+        "numeric_best": 2.8935570907731165,
+        "last_size": 2.8935570908616626,
+        "last_min_constraint": -3.4861002973229915e-14,
+        "iterations": 474,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 5.328125
+      },
+      {
+        "variant": "source_fixed",
+        "numeric_best": 2.8935610584622427,
+        "last_size": 2.893561058514815,
+        "last_min_constraint": -4.4164671919588727e-13,
+        "iterations": 203,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 2.328125
+      },
+      {
+        "variant": "snap_pi6",
+        "numeric_best": 2.8935610583407696,
+        "last_size": 2.893561058514845,
+        "last_min_constraint": -2.8754776337791554e-14,
+        "iterations": 109,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 1.1875
+      },
+      {
+        "variant": "snap_pi4",
+        "numeric_best": 2.8935610583407696,
+        "last_size": 2.893561058514845,
+        "last_min_constraint": -2.8754776337791554e-14,
+        "iterations": 109,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 1.0625
+      },
+      {
+        "variant": "snap_both",
+        "numeric_best": 2.8935610583407696,
+        "last_size": 2.893561058514845,
+        "last_min_constraint": -2.8754776337791554e-14,
+        "iterations": 109,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 1.03125
+      }
+    ],
+    "best_size": 2.8935570907731165
+  },
+  {
+    "instance_id": "square_triangle_n12",
+    "source_file": "data\\seeds\\square_triangle_n12.json",
+    "purpose": "Deterministic reconstruction of published source; no randomized search.",
+    "variants": [
+      {
+        "variant": "source_direct",
+        "numeric_best": 6.3012213281471965,
+        "last_size": 6.301221331391737,
+        "last_min_constraint": -2.8133051444001467e-13,
+        "iterations": 155,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 1.296875
+      },
+      {
+        "variant": "source_fixed",
+        "numeric_best": 6.301221329047491,
+        "last_size": 6.301221331389972,
+        "last_min_constraint": -2.829958489769524e-13,
+        "iterations": 146,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 1.53125
+      },
+      {
+        "variant": "snap_pi6",
+        "numeric_best": 6.301221330548628,
+        "last_size": 6.301221331391329,
+        "last_min_constraint": -5.10702591327572e-15,
+        "iterations": 73,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.578125
+      },
+      {
+        "variant": "snap_pi4",
+        "numeric_best": 6.301221329047491,
+        "last_size": 6.301221331389972,
+        "last_min_constraint": -2.829958489769524e-13,
+        "iterations": 146,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 1.25
+      },
+      {
+        "variant": "snap_both",
+        "numeric_best": 6.301221330548628,
+        "last_size": 6.301221331391329,
+        "last_min_constraint": -5.10702591327572e-15,
+        "iterations": 73,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.4375
+      }
+    ],
+    "best_size": 6.3012213281471965
+  },
+  {
+    "instance_id": "square_triangle_n17",
+    "source_file": "data\\seeds\\square_triangle_n17.json",
+    "purpose": "Deterministic reconstruction of published source; no randomized search.",
+    "variants": [
+      {
+        "variant": "source_direct",
+        "numeric_best": null,
+        "last_size": 7.197382274152595,
+        "last_min_constraint": -6.601585764995592,
+        "iterations": 132,
+        "success": false,
+        "status": "Positive directional derivative for linesearch",
+        "cpu_seconds": 1.734375
+      },
+      {
+        "variant": "source_fixed",
+        "numeric_best": 7.309401075404286,
+        "last_size": 7.309401076759051,
+        "last_min_constraint": -5.044853423896711e-13,
+        "iterations": 51,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.5625
+      },
+      {
+        "variant": "snap_pi6",
+        "numeric_best": 7.301221329416615,
+        "last_size": 8.30940107675813,
+        "last_min_constraint": -2.62456723021387e-13,
+        "iterations": 209,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 2.40625
+      },
+      {
+        "variant": "snap_pi4",
+        "numeric_best": 7.309401075404286,
+        "last_size": 7.309401076759051,
+        "last_min_constraint": -5.044853423896711e-13,
+        "iterations": 51,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.59375
+      },
+      {
+        "variant": "snap_both",
+        "numeric_best": 7.301221329416615,
+        "last_size": 8.30940107675813,
+        "last_min_constraint": -2.62456723021387e-13,
+        "iterations": 209,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 2.5625
+      }
+    ],
+    "best_size": 7.301221329416615
+  },
+  {
+    "instance_id": "square_triangle_n23",
+    "source_file": "data\\seeds\\square_triangle_n23.json",
+    "purpose": "Deterministic reconstruction of published source; no randomized search.",
+    "variants": [
+      {
+        "variant": "source_direct",
+        "numeric_best": 8.309401072277307,
+        "last_size": 8.305134753315675,
+        "last_min_constraint": -0.0035013968238966076,
+        "iterations": 171,
+        "success": false,
+        "status": "Positive directional derivative for linesearch",
+        "cpu_seconds": 2.796875
+      },
+      {
+        "variant": "source_fixed",
+        "numeric_best": 8.320247990584509,
+        "last_size": 8.91443523053509,
+        "last_min_constraint": -3.0897506775318107e-13,
+        "iterations": 212,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 4.015625
+      },
+      {
+        "variant": "snap_pi6",
+        "numeric_best": 8.301221331089687,
+        "last_size": 8.301221331390126,
+        "last_min_constraint": -7.815970093361102e-14,
+        "iterations": 164,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 3.703125
+      },
+      {
+        "variant": "snap_pi4",
+        "numeric_best": 8.320247990584509,
+        "last_size": 8.91443523053509,
+        "last_min_constraint": -3.0897506775318107e-13,
+        "iterations": 212,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 4.25
+      },
+      {
+        "variant": "snap_both",
+        "numeric_best": 8.301221331089687,
+        "last_size": 8.301221331390126,
+        "last_min_constraint": -7.815970093361102e-14,
+        "iterations": 164,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 3.765625
+      }
+    ],
+    "best_size": 8.301221331089687
+  },
+  {
+    "instance_id": "square_triangle_n30",
+    "source_file": "data\\seeds\\square_triangle_n30.json",
+    "purpose": "Deterministic reconstruction of published source; no randomized search.",
+    "variants": [
+      {
+        "variant": "source_direct",
+        "numeric_best": 9.309401070797067,
+        "last_size": 68.57200961456306,
+        "last_min_constraint": -95.94625019437379,
+        "iterations": 175,
+        "success": false,
+        "status": "Positive directional derivative for linesearch",
+        "cpu_seconds": 4.125
+      },
+      {
+        "variant": "source_fixed",
+        "numeric_best": 9.301221329162512,
+        "last_size": 9.301221331390073,
+        "last_min_constraint": -1.63202784619898e-13,
+        "iterations": 187,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 6.578125
+      },
+      {
+        "variant": "snap_pi6",
+        "numeric_best": 9.30122133097001,
+        "last_size": 9.301221331390098,
+        "last_min_constraint": -1.7580381594939354e-13,
+        "iterations": 176,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 8.21875
+      },
+      {
+        "variant": "snap_pi4",
+        "numeric_best": 9.301221329162512,
+        "last_size": 9.301221331390073,
+        "last_min_constraint": -1.63202784619898e-13,
+        "iterations": 187,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 6.21875
+      },
+      {
+        "variant": "snap_both",
+        "numeric_best": 9.30122133097001,
+        "last_size": 9.301221331390098,
+        "last_min_constraint": -1.7580381594939354e-13,
+        "iterations": 176,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 7.828125
+      }
+    ],
+    "best_size": 9.301221329162512
+  },
+  {
+    "instance_id": "square_triangle_n8",
+    "source_file": "data\\seeds\\square_triangle_n8.json",
+    "purpose": "Deterministic reconstruction of published source; no randomized search.",
+    "variants": [
+      {
+        "variant": "source_direct",
+        "numeric_best": 5.464101615137728,
+        "last_size": 5.464101615138083,
+        "last_min_constraint": -4.440892098500626e-16,
+        "iterations": 29,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.109375
+      },
+      {
+        "variant": "source_fixed",
+        "numeric_best": 5.301221331290271,
+        "last_size": 5.301221331400095,
+        "last_min_constraint": -1.3655743202889425e-13,
+        "iterations": 47,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.3125
+      },
+      {
+        "variant": "snap_pi6",
+        "numeric_best": 5.301221330828355,
+        "last_size": 5.301221331391091,
+        "last_min_constraint": -2.7333690866271354e-13,
+        "iterations": 80,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.609375
+      },
+      {
+        "variant": "snap_pi4",
+        "numeric_best": 5.301221331290271,
+        "last_size": 5.301221331400095,
+        "last_min_constraint": -1.3655743202889425e-13,
+        "iterations": 47,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.296875
+      },
+      {
+        "variant": "snap_both",
+        "numeric_best": 5.301221330828355,
+        "last_size": 5.301221331391091,
+        "last_min_constraint": -2.7333690866271354e-13,
+        "iterations": 80,
+        "success": true,
+        "status": "Optimization terminated successfully",
+        "cpu_seconds": 0.53125
+      }
+    ],
+    "best_size": 5.301221330828355
+  }
+]

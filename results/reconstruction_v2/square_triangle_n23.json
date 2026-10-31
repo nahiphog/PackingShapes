@@ -1,0 +1,187 @@
+{
+  "instance_id": "square_triangle_n23",
+  "source_file": "data\\seeds\\square_triangle_n23.json",
+  "purpose": "Deterministic reconstruction of published source; no randomized search.",
+  "variants": [
+    {
+      "variant": "source_direct",
+      "numeric_best": 8.309401072277307,
+      "last_size": 8.305134753315675,
+      "last_min_constraint": -0.0035013968238966076,
+      "iterations": 171,
+      "success": false,
+      "status": "Positive directional derivative for linesearch",
+      "cpu_seconds": 2.796875
+    },
+    {
+      "variant": "source_fixed",
+      "numeric_best": 8.320247990584509,
+      "last_size": 8.91443523053509,
+      "last_min_constraint": -3.0897506775318107e-13,
+      "iterations": 212,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 4.015625
+    },
+    {
+      "variant": "snap_pi6",
+      "numeric_best": 8.301221331089687,
+      "last_size": 8.301221331390126,
+      "last_min_constraint": -7.815970093361102e-14,
+      "iterations": 164,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 3.703125
+    },
+    {
+      "variant": "snap_pi4",
+      "numeric_best": 8.320247990584509,
+      "last_size": 8.91443523053509,
+      "last_min_constraint": -3.0897506775318107e-13,
+      "iterations": 212,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 4.25
+    },
+    {
+      "variant": "snap_both",
+      "numeric_best": 8.301221331089687,
+      "last_size": 8.301221331390126,
+      "last_min_constraint": -7.815970093361102e-14,
+      "iterations": 164,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 3.765625
+    }
+  ],
+  "best": {
+    "schema_version": 1,
+    "shape": "unit_square",
+    "container": "equilateral_triangle",
+    "n": 23,
+    "size": 8.301221331089687,
+    "pieces": [
+      {
+        "x": -0.10566243268799369,
+        "y": 6.006055853214234,
+        "theta": -0.5235987755185216
+      },
+      {
+        "x": -0.6056624327321557,
+        "y": 5.140030449376657,
+        "theta": -0.5235987756547233
+      },
+      {
+        "x": 0.47168783651811264,
+        "y": 5.006055853205914,
+        "theta": -0.5235987755737747
+      },
+      {
+        "x": -0.8276929995780544,
+        "y": 4.113519318621205,
+        "theta": -0.5235987761766723
+      },
+      {
+        "x": 0.2502351090739382,
+        "y": 3.9792111068452094,
+        "theta": -0.5235987765776444
+      },
+      {
+        "x": -1.6056624322888575,
+        "y": 3.407979641890384,
+        "theta": -0.5235987759967613
+      },
+      {
+        "x": 1.340379871513483,
+        "y": 3.501400055106117,
+        "theta": -8.598821463386184e-05
+      },
+      {
+        "x": -0.13318388493962496,
+        "y": 3.045877628038408,
+        "theta": -0.5235987760259142
+      },
+      {
+        "x": -2.105662432389093,
+        "y": 2.5419542382046973,
+        "theta": -0.5235987760675692
+      },
+      {
+        "x": -1.0283121632361427,
+        "y": 2.407979642044542,
+        "theta": -0.5235987755519642
+      },
+      {
+        "x": 0.9181179083294311,
+        "y": 2.500793476513383,
+        "theta": -9.050420190248717e-05
+      },
+      {
+        "x": 1.9181278096386014,
+        "y": 2.500701495403907,
+        "theta": -8.578491639842132e-05
+      },
+      {
+        "x": -2.605662432389514,
+        "y": 1.6759288344218306,
+        "theta": -0.523598776065267
+      },
+      {
+        "x": 0.07406648890365816,
+        "y": 1.5008522705035547,
+        "theta": -8.272825489908288e-05
+      },
+      {
+        "x": 1.075319002441448,
+        "y": 1.5000734147857457,
+        "theta": -8.662906680980836e-05
+      },
+      {
+        "x": 2.4957710334806347,
+        "y": 1.5001710574276033,
+        "theta": -0.0001806935241290867
+      },
+      {
+        "x": -0.9267396049734066,
+        "y": 1.2249669396797558,
+        "theta": 5.906754994995714e-09
+      },
+      {
+        "x": -1.924685270550896,
+        "y": 0.6354222342654924,
+        "theta": 0.3312219352147988
+      },
+      {
+        "x": -3.0732601549439402,
+        "y": 0.500001560486868,
+        "theta": -3.1209706336776784e-06
+      },
+      {
+        "x": 0.0732603964727135,
+        "y": 0.5000348006785538,
+        "theta": 2.350055520756826e-10
+      },
+      {
+        "x": 1.0732603964726877,
+        "y": 0.5000269334141585,
+        "theta": 2.349494650855988e-10
+      },
+      {
+        "x": 2.073260396354396,
+        "y": 0.5000000000008223,
+        "theta": -1.6437178223736514e-12
+      },
+      {
+        "x": 3.073260396355218,
+        "y": 0.5000000000000001,
+        "theta": -3.5030939154117416e-16
+      }
+    ],
+    "provenance": {
+      "kind": "source_reconstruction",
+      "source_file": "data\\seeds\\square_triangle_n23.json",
+      "not_certified": true,
+      "original_full_precision_incumbent": false
+    }
+  }
+}

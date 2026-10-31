@@ -1,0 +1,147 @@
+{
+  "instance_id": "square_circle_n15",
+  "source_file": "data\\seeds\\square_circle_n15.json",
+  "purpose": "Deterministic reconstruction of published source; no randomized search.",
+  "variants": [
+    {
+      "variant": "source_direct",
+      "numeric_best": 2.5331389585271666,
+      "last_size": 2.5331389587514153,
+      "last_min_constraint": -3.4294789230671086e-13,
+      "iterations": 179,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.859375
+    },
+    {
+      "variant": "source_fixed",
+      "numeric_best": 2.533139134664233,
+      "last_size": 2.5334490899965956,
+      "last_min_constraint": -1.0941247907680918e-10,
+      "iterations": 459,
+      "success": false,
+      "status": "Positive directional derivative for linesearch",
+      "cpu_seconds": 1.625
+    },
+    {
+      "variant": "snap_pi6",
+      "numeric_best": 2.5331389587037094,
+      "last_size": 2.533138958751416,
+      "last_min_constraint": -2.7045032879868813e-13,
+      "iterations": 252,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.859375
+    },
+    {
+      "variant": "snap_pi4",
+      "numeric_best": 2.5331389587037094,
+      "last_size": 2.533138958751416,
+      "last_min_constraint": -2.7045032879868813e-13,
+      "iterations": 252,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 1.09375
+    },
+    {
+      "variant": "snap_both",
+      "numeric_best": 2.5331389587037094,
+      "last_size": 2.533138958751416,
+      "last_min_constraint": -2.7045032879868813e-13,
+      "iterations": 252,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 1.453125
+    }
+  ],
+  "best": {
+    "schema_version": 1,
+    "shape": "unit_square",
+    "container": "circle",
+    "n": 15,
+    "size": 2.5331389585271666,
+    "pieces": [
+      {
+        "x": 0.7967449725149335,
+        "y": 0.3586538103513607,
+        "theta": 0.7264268110541271
+      },
+      {
+        "x": -0.7762758485522414,
+        "y": 0.3993346993011271,
+        "theta": 0.7264268113125403
+      },
+      {
+        "x": 0.740339749286725,
+        "y": 1.7035302199673787,
+        "theta": 0.7264268113364908
+      },
+      {
+        "x": -1.9832960421763313,
+        "y": 0.00519179798909558,
+        "theta": -0.0026177565121375387
+      },
+      {
+        "x": -0.5472020697595779,
+        "y": -1.8083301651784631,
+        "theta": -0.006484572524486435
+      },
+      {
+        "x": 0.4525792583086723,
+        "y": -1.8452937889329553,
+        "theta": -0.0064845725207918845
+      },
+      {
+        "x": 0.02123520344220385,
+        "y": 1.007309651986262,
+        "theta": 0.7264268114089387
+      },
+      {
+        "x": -1.4964708459733709,
+        "y": 1.209905826670539,
+        "theta": 0.7264268191114992
+      },
+      {
+        "x": 1.5871279984812676,
+        "y": 1.1182055317866686,
+        "theta": 0.726426811873651
+      },
+      {
+        "x": -0.6429675314673096,
+        "y": 1.7548621374592912,
+        "theta": 0.726426819861313
+      },
+      {
+        "x": 1.4813811638992278,
+        "y": -1.0864240557727536,
+        "theta": -0.05541992401189773
+      },
+      {
+        "x": -0.5343071604327969,
+        "y": -0.8083927613928233,
+        "theta": -0.006484572485658712
+      },
+      {
+        "x": 0.4679989011891512,
+        "y": -0.8453727554180265,
+        "theta": -0.006484572780602908
+      },
+      {
+        "x": -1.5438848659130449,
+        "y": -0.9959619023668823,
+        "theta": -0.0026177563473607605
+      },
+      {
+        "x": 1.9795639946882726,
+        "y": -0.11252395954316302,
+        "theta": -0.05541992357771795
+      }
+    ],
+    "provenance": {
+      "kind": "source_reconstruction",
+      "source_file": "data\\seeds\\square_circle_n15.json",
+      "not_certified": true,
+      "original_full_precision_incumbent": false
+    }
+  }
+}

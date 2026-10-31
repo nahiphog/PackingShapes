@@ -1,0 +1,65 @@
+{
+  "total_ms": 1597.0969,
+  "rows": [
+    {
+      "file": "square_circle_n11.json",
+      "milliseconds": 104.7913,
+      "size_exact": "2213866925923/1000000000000",
+      "dilation": "1"
+    },
+    {
+      "file": "square_circle_n13.json",
+      "milliseconds": 108.61070000000004,
+      "size_exact": "590176888959/250000000000",
+      "dilation": "1"
+    },
+    {
+      "file": "square_circle_n15.json",
+      "milliseconds": 136.2778,
+      "size_exact": "2533149474831/1000000000000",
+      "dilation": "1"
+    },
+    {
+      "file": "square_circle_n18.json",
+      "milliseconds": 178.2095,
+      "size_exact": "21931712483/8000000000",
+      "dilation": "1"
+    },
+    {
+      "file": "square_circle_n20.json",
+      "milliseconds": 258.9546,
+      "size_exact": "723390287869/250000000000",
+      "dilation": "1"
+    },
+    {
+      "file": "square_triangle_n12.json",
+      "milliseconds": 93.75869999999998,
+      "size_exact": "199745832159/31250000000",
+      "dilation": "50747839973/50000000000"
+    },
+    {
+      "file": "square_triangle_n17.json",
+      "milliseconds": 193.77359999999987,
+      "size_exact": "7500657385471/1000000000000",
+      "dilation": "1024892626319/1000000000000"
+    },
+    {
+      "file": "square_triangle_n23.json",
+      "milliseconds": 198.1902,
+      "size_exact": "3424881961/400000000",
+      "dilation": "1033255312707/1000000000000"
+    },
+    {
+      "file": "square_triangle_n30.json",
+      "milliseconds": 252.38149999999996,
+      "size_exact": "960031065261/100000000000",
+      "dilation": "1026739441661/1000000000000"
+    },
+    {
+      "file": "square_triangle_n8.json",
+      "milliseconds": 72.14900000000011,
+      "size_exact": "5381229813227/1000000000000",
+      "dilation": "201476364017/200000000000"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "purpose": "Deterministic source reconstruction before pilot; these hashes identify code used before later budget-control integration.",
+  "files": {
+    "packing_shapes/geometry.py": "c3f6bbe4eae1dd266476a1cf97ed548fb79c1252980d13eb216cd46944d5042c",
+    "packing_shapes/polish.py": "04d2ee4e4e15a1c2bbb5edf883fdee5d58d0b0264c93ff83b8ec37b948bc80f3",
+    "results/reconstruction_v2/reconstruct.py": "c3b3de967637d0e1c5436dbef58a96de8804544beac01091fad5ebc7b0eb8a7d",
+    "data/seeds/square_circle_n11.json": "fdf03b139773c03724d25cc0f4923cfcac441661babc8399cb9b5aaf5db18f29",
+    "data/seeds/square_circle_n13.json": "ab697eec3282b4f7ac770aa102cd6292fa91a8c350657469960dfe2d4e54a7cd",
+    "data/seeds/square_circle_n15.json": "3ebc1ca72dedd377aa346e7dc55072025d2d26f3ba9975645e3d2f3f3ec957bd",
+    "data/seeds/square_circle_n18.json": "af3270c520fb48910b837919fdadc80e6355ff4d024164d241ff93fba61f5400",
+    "data/seeds/square_circle_n20.json": "3bcfe7f32162c131d44228dbcb269ad88977e0c53b76cf4cb73a0384ae6e2d6e",
+    "data/seeds/square_triangle_n12.json": "53f8d4659325a7b138b69730e5e99365ece7c12663ca49144fa8dd4bbaa6ac07",
+    "data/seeds/square_triangle_n17.json": "bec1bea559e3a536050004db055deaee558c0d1f5b84a74cfb66411c1028bdec",
+    "data/seeds/square_triangle_n23.json": "93a4c670f4455dd23f3f7cf33c54bc031e02863c9b4b5ce00cd855ff292e9ba6",
+    "data/seeds/square_triangle_n30.json": "930f777e8ca592b372aadf30a1a632659ad18b825bbf933f28ef4430a7538fdf",
+    "data/seeds/square_triangle_n8.json": "5a6f8db9332fca998fa5be4c3496b40df5cfa0a367f2318c64761ead333bf6ed"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "artifacts": [
+    {
+      "path": "data/sources/minmax-tilted-squares-in-circle.json",
+      "url": "https://minmaxarena.com/data/tilted-squares-in-circle.json",
+      "retrieved_at": "2026-10-30T03:31:35.675Z",
+      "sha256": "dcdde6596727278445f190ca38a85ee0de4fb952c9bc5b9ae4999dbacbeb0fb9",
+      "bytes": 173896,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "path": "data/sources/friedman-squincir.html",
+      "url": "https://raw.githubusercontent.com/erich-friedman/erich-friedman.github.io/master/packing/squincir/index.html",
+      "retrieved_at": "2026-10-30T03:31:36.060Z",
+      "sha256": "ea06cf35fd752c689c80b0b855acf1900c119695ef23b69c551a82816ffedc86",
+      "bytes": 12146,
+      "license": "unspecified; retained as research evidence"
+    },
+    {
+      "path": "data/sources/friedman-squintri.html",
+      "url": "https://raw.githubusercontent.com/erich-friedman/erich-friedman.github.io/master/packing/squintri/index.html",
+      "retrieved_at": "2026-10-30T03:31:36.356Z",
+      "sha256": "b12c5a12eb4362e02bf0425023741a9ef6ff93e05ed8556eef23968ed4428216",
+      "bytes": 11041,
+      "license": "unspecified; retained as research evidence"
+    },
+    {
+      "path": "data/sources/hyra-summary.csv",
+      "url": "https://raw.githubusercontent.com/Tencent-Hunyuan/Hyra-results/main/AI4Science/packing_records/SUMMARY.csv",
+      "retrieved_at": "2026-10-30T03:31:36.657Z",
+      "sha256": "a918696423545ea3a3be34d4c44a80ff78027e4c61ec3d318ddb15259a025bbd",
+      "bytes": 11685,
+      "license": "Apache-2.0"
+    },
+    {
+      "path": "data/sources/friedman-squintri-8.gif",
+      "url": "https://raw.githubusercontent.com/erich-friedman/erich-friedman.github.io/master/packing/squintri/ts8.gif",
+      "retrieved_at": "2026-10-30T03:31:36.975Z",
+      "sha256": "2fc8c020c906b1eb62d0b5925ab69c29cc546f443bfb7d535ec563e4b209e93c",
+      "bytes": 1784,
+      "license": "unspecified; research figure for reconstruction"
+    },
+    {
+      "path": "data/sources/friedman-squintri-12.gif",
+      "url": "https://raw.githubusercontent.com/erich-friedman/erich-friedman.github.io/master/packing/squintri/ts12.gif",
+      "retrieved_at": "2026-10-30T03:31:37.267Z",
+      "sha256": "d8c55875a699fe642f0a08539812fcc08ed1da7b4fd7ae7a14818d059a2302a9",
+      "bytes": 1859,
+      "license": "unspecified; research figure for reconstruction"
+    },
+    {
+      "path": "data/sources/friedman-squintri-17.gif",
+      "url": "https://raw.githubusercontent.com/erich-friedman/erich-friedman.github.io/master/packing/squintri/ts17.gif",
+      "retrieved_at": "2026-10-30T03:31:37.590Z",
+      "sha256": "cee0ec9c84379ae09d36ff979be34de3c5888a63c87fec9d94e96398573db772",
+      "bytes": 1895,
+      "license": "unspecified; research figure for reconstruction"
+    },
+    {
+      "path": "data/sources/friedman-squintri-23.gif",
+      "url": "https://raw.githubusercontent.com/erich-friedman/erich-friedman.github.io/master/packing/squintri/ts23.gif",
+      "retrieved_at": "2026-10-30T03:31:37.870Z",
+      "sha256": "75ead5de18ed3be5ceae87a02485492179669bfa445ac253669fa3f02ca799ab",
+      "bytes": 1979,
+      "license": "unspecified; research figure for reconstruction"
+    },
+    {
+      "path": "data/sources/friedman-squintri-30.gif",
+      "url": "https://raw.githubusercontent.com/erich-friedman/erich-friedman.github.io/master/packing/squintri/ts30.gif",
+      "retrieved_at": "2026-10-30T03:31:38.175Z",
+      "sha256": "569f389a3a47a7c985039038d5aa81f495aee6b27b86b34b5ee5d775c39e4cef",
+      "bytes": 2013,
+      "license": "unspecified; research figure for reconstruction"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "mode": "pilot",
+  "source_hashes": {
+    "run_pilot.py": "8929bb989ba01fbad4f22d7e52b9dee4088655d742eaa5ff7394703c1565b4aa",
+    "packing_shapes/__init__.py": "4bd8d8cc121e06a31b3dae850570948277f75d9bd3d78b97988150f3169e5589",
+    "packing_shapes/geometry.py": "c3f6bbe4eae1dd266476a1cf97ed548fb79c1252980d13eb216cd46944d5042c",
+    "packing_shapes/polish.py": "e0c789e421f4133656f1a1d0706d92660c3c0e039328499cbedca07bc3ebfe6e",
+    "packing_shapes/search.py": "445b4eff679de31e14767dcd6d7fd9079234387dedee5357b42c94a818864124",
+    "checkers/squares.mjs": "7c55f902933907e5d13d71fc2724250b4526864f70d93029e8e47e81a2010b6b",
+    "checkers/select-best.mjs": "a0f75cbc7c0ace927b33bebd90f9926c183830cda1bd54482eeb98d2d7a33472",
+    "research/pilot_targets.json": "e8cb036ed20cc18dac399e3b3f43d94960ebeee7e200c500d94583ab3482a70a",
+    "registry/records.json": "7c3268c564d6216d5cb701851fed29de10518c3536a48cf8dfe1bfb907298175",
+    "requirements.txt": "a328fd1cf5402fff8e0c87457272ce115b5d520c34a563236609c7b586729435",
+    "experiments/PILOT_PROTOCOL.md": "2ca6729c1d7f12181c956a376d0d639b76c7153160a872cb03a798d4b4d2a239"
+  },
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "scipy": "1.16.3",
+  "workers": 6,
+  "blas_threads": 1,
+  "clock": "time.process_time per worker",
+  "created_epoch": 1793332673.3887405,
+  "amendments": [
+    "Warm starts use independently certified derived reference poses, not unavailable original full-precision incumbents."
+  ],
+  "metrics": {
+    "baseline_recovery_relative_tolerance": 1e-05,
+    "meaningful_local_improvement_relative": 1e-06,
+    "record_claims": "exact registry comparison plus priority review required"
+  }
+}

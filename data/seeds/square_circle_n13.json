@@ -1,0 +1,89 @@
+{
+  "instance_id": "square_circle_n13",
+  "shape": "unit_square",
+  "container": "circle",
+  "n": 13,
+  "size": 2.36070755593943,
+  "pieces": [
+    {
+      "x": 0.36645902198312424,
+      "y": 1.6248933463686968,
+      "theta": 0.7845798225846337
+    },
+    {
+      "x": 1.3372592609115066,
+      "y": 1.1810483099362106,
+      "theta": 0.7845798225846337
+    },
+    {
+      "x": 1.6997660099115528,
+      "y": 0.08334474249112052,
+      "theta": 0.3937148089965632
+    },
+    {
+      "x": -0.8982264607319913,
+      "y": 1.4762781135970884,
+      "theta": 0.7845798225846337
+    },
+    {
+      "x": -0.19169856823415518,
+      "y": 0.768592912548444,
+      "theta": 0.7845798225846337
+    },
+    {
+      "x": 0.5174337512676954,
+      "y": -0.00042344247501637314,
+      "theta": 0.6894260993646142
+    },
+    {
+      "x": 1.080844123539205,
+      "y": -0.9283382346124363,
+      "theta": 0.7845798225846337
+    },
+    {
+      "x": -1.5446328824636562,
+      "y": 0.7083710644969944,
+      "theta": 0.7845798225846337
+    },
+    {
+      "x": -0.8381049923265279,
+      "y": 0.0006858610876420871,
+      "theta": 0.7845798225846337
+    },
+    {
+      "x": -0.19295626115236503,
+      "y": -0.76827813108152,
+      "theta": 0.7845798125662711
+    },
+    {
+      "x": 0.36379907585880894,
+      "y": -1.625490954765068,
+      "theta": 0.7845798125662711
+    },
+    {
+      "x": -1.5457902004572952,
+      "y": -0.7058420314101937,
+      "theta": 0.7845798125662711
+    },
+    {
+      "x": -0.9006414692831326,
+      "y": -1.4748060188579408,
+      "theta": 0.7845798159075468
+    }
+  ],
+  "provenance": {
+    "kind": "source_derived_warm_start",
+    "source": "https://minmaxarena.com/data/tilted-squares-in-circle.json",
+    "source_instance": "p05-n13-v2",
+    "source_generated_at": "2026-10-30T03:31:35.676Z",
+    "source_holder": "zzzcy",
+    "source_method": "ai",
+    "source_recorded_at": "2026-10-05T16:12:15.546Z",
+    "source_sha256": "dcdde6596727278445f190ca38a85ee0de4fb952c9bc5b9ae4999dbacbeb0fb9",
+    "license": "CC-BY-4.0",
+    "attribution": "MinMax Arena and the named record holder; originating construction credited separately by Erich Friedman catalogue",
+    "transformation": "Subtract circle center (1,1); divide centers and radius by the shortest published square side; replace every square by a concentric unit square in its published orientation. Floating seed only; exact checker must repair and certify.",
+    "certification": "not_certified",
+    "original_full_precision_incumbent": false
+  }
+}

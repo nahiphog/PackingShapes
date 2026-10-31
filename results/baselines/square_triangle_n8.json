@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "shape": "unit_square",
+  "n": 8,
+  "container": "equilateral_triangle",
+  "size": 5.301221341405,
+  "pieces": [
+    {
+      "x": -0.10566243184707778,
+      "y": 3.407979649366344,
+      "theta": -0.5235987785613183
+    },
+    {
+      "x": -0.6056624333285777,
+      "y": 2.5419542430163107,
+      "theta": -0.5235987785613183
+    },
+    {
+      "x": 0.47168783913461104,
+      "y": 2.4079796456663436,
+      "theta": -0.5235987769360101
+    },
+    {
+      "x": -1.1056624353520779,
+      "y": 1.6759288386892772,
+      "theta": -0.5235987755980699
+    },
+    {
+      "x": 0.5732603979095706,
+      "y": 1.224966940022077,
+      "theta": 2.8e-11
+    },
+    {
+      "x": -0.42469462777737016,
+      "y": 0.6354376331003017,
+      "theta": 0.3312715777565911
+    },
+    {
+      "x": -1.5730863154360546,
+      "y": 0.5000268921030797,
+      "theta": 0.0000489516739902249
+    },
+    {
+      "x": 1.5732604008865705,
+      "y": 0.5,
+      "theta": 0
+    }
+  ],
+  "provenance": {
+    "kind": "certified_source_reconstruction",
+    "source_seed": "data/seeds/square_triangle_n8.json",
+    "reconstruction": "results/reconstruction_v2/square_triangle_n8.json",
+    "certificate": "results/baselines/square_triangle_n8.certificate.json",
+    "original_full_precision_incumbent": false
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "instance_id": "square_circle_n11",
+  "source_file": "data\\seeds\\square_circle_n11.json",
+  "purpose": "Deterministic reconstruction of published source; no randomized search.",
+  "variants": [
+    {
+      "variant": "source_direct",
+      "numeric_best": 2.2138668451802004,
+      "last_size": 2.2138668461333295,
+      "last_min_constraint": -1.084687895058778e-13,
+      "iterations": 182,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.75
+    },
+    {
+      "variant": "source_fixed",
+      "numeric_best": 2.213866845050766,
+      "last_size": 2.213866846133582,
+      "last_min_constraint": -7.549516567451064e-15,
+      "iterations": 51,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.328125
+    },
+    {
+      "variant": "snap_pi6",
+      "numeric_best": 2.213866845050766,
+      "last_size": 2.213866846133582,
+      "last_min_constraint": -7.549516567451064e-15,
+      "iterations": 51,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.296875
+    },
+    {
+      "variant": "snap_pi4",
+      "numeric_best": 2.213866845050766,
+      "last_size": 2.213866846133582,
+      "last_min_constraint": -7.549516567451064e-15,
+      "iterations": 51,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.34375
+    },
+    {
+      "variant": "snap_both",
+      "numeric_best": 2.213866845050766,
+      "last_size": 2.213866846133582,
+      "last_min_constraint": -7.549516567451064e-15,
+      "iterations": 51,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.296875
+    }
+  ],
+  "best": {
+    "schema_version": 1,
+    "shape": "unit_square",
+    "container": "circle",
+    "n": 11,
+    "size": 2.213866845050766,
+    "pieces": [
+      {
+        "x": 1.141380918928987,
+        "y": 1.0849681860559954,
+        "theta": -0.5555341925278279
+      },
+      {
+        "x": 0.10943802170171102,
+        "y": 1.653046929403307,
+        "theta": -0.06610735118208487
+      },
+      {
+        "x": 1.525130151376856,
+        "y": -0.19292896535290177,
+        "theta": -0.5555341951605544
+      },
+      {
+        "x": 0.5567541091199795,
+        "y": 0.27087436840904927,
+        "theta": -0.5555341925211722
+      },
+      {
+        "x": -0.9232842360994932,
+        "y": 1.191847332054187,
+        "theta": -0.06610736256623778
+      },
+      {
+        "x": -0.6443377448739227,
+        "y": 0.13086048108854506,
+        "theta": -0.15022723163812923
+      },
+      {
+        "x": 1.1189350400013378,
+        "y": -1.1177834865943004,
+        "theta": -0.5555341842325938
+      },
+      {
+        "x": 0.20778857129666758,
+        "y": -0.6895051656497793,
+        "theta": -0.5555341842314578
+      },
+      {
+        "x": -1.6380067091226183,
+        "y": 0.24794122745718497,
+        "theta": -0.15022723424435308
+      },
+      {
+        "x": -1.204044258994138,
+        "y": -0.9875633186463141,
+        "theta": -0.5555341857388789
+      },
+      {
+        "x": -0.35556853568747365,
+        "y": -1.5168020594349412,
+        "theta": -0.5555341856670082
+      }
+    ],
+    "provenance": {
+      "kind": "source_reconstruction",
+      "source_file": "data\\seeds\\square_circle_n11.json",
+      "not_certified": true,
+      "original_full_precision_incumbent": false
+    }
+  }
+}

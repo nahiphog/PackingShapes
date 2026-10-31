@@ -1,0 +1,137 @@
+{
+  "instance_id": "square_triangle_n23",
+  "shape": "unit_square",
+  "container": "equilateral_triangle",
+  "n": 23,
+  "size": 8.301,
+  "pieces": [
+    {
+      "x": -0.12164856822010117,
+      "y": 5.990143290286356,
+      "theta": -0.519146114246523
+    },
+    {
+      "x": -0.6161663110612013,
+      "y": 5.117163335204941,
+      "theta": -0.519146114246523
+    },
+    {
+      "x": 0.44819697294976435,
+      "y": 5.0085788965221125,
+      "theta": -0.540419500270584
+    },
+    {
+      "x": -1.1253931945040794,
+      "y": 4.244060004293688,
+      "theta": -0.540419500270584
+    },
+    {
+      "x": -0.04614256035934884,
+      "y": 4.137915665356542,
+      "theta": -0.519146114246523
+    },
+    {
+      "x": -1.6261756878158342,
+      "y": 3.3875164514317806,
+      "theta": -0.519146114246523
+    },
+    {
+      "x": 1.0603467153284671,
+      "y": 3.4839963503649636,
+      "theta": 0
+    },
+    {
+      "x": -0.5355333520494108,
+      "y": 3.266333969679956,
+      "theta": -0.5191461142465226
+    },
+    {
+      "x": -2.1109056148231335,
+      "y": 2.5392390791690067,
+      "theta": -0.519146114246523
+    },
+    {
+      "x": -1.0362884285100897,
+      "y": 2.4031555388578787,
+      "theta": -0.540419500270584
+    },
+    {
+      "x": 0.5756167883211679,
+      "y": 2.484240875912409,
+      "theta": 0
+    },
+    {
+      "x": 1.5753722627737228,
+      "y": 2.484240875912409,
+      "theta": 0
+    },
+    {
+      "x": -2.611948568220101,
+      "y": 1.6699878158338004,
+      "theta": -0.5191461142465228
+    },
+    {
+      "x": 0.06059124087591241,
+      "y": 1.484485401459854,
+      "theta": 0
+    },
+    {
+      "x": 1.0603467153284671,
+      "y": 1.484485401459854,
+      "theta": 0
+    },
+    {
+      "x": 2.060102189781022,
+      "y": 1.484485401459854,
+      "theta": 0
+    },
+    {
+      "x": -0.9391642335766428,
+      "y": 1.2118248175182482,
+      "theta": 0
+    },
+    {
+      "x": -1.9146832116788324,
+      "y": 0.6240897810218985,
+      "theta": 0.32175055439664213
+    },
+    {
+      "x": -3.0598576642335766,
+      "y": 0.4847299270072993,
+      "theta": 0
+    },
+    {
+      "x": 0.06059124087591241,
+      "y": 0.4847299270072993,
+      "theta": 0
+    },
+    {
+      "x": 1.0603467153284671,
+      "y": 0.4847299270072993,
+      "theta": 0
+    },
+    {
+      "x": 2.060102189781022,
+      "y": 0.4847299270072993,
+      "theta": 0
+    },
+    {
+      "x": 3.0598576642335766,
+      "y": 0.4847299270072993,
+      "theta": 0
+    }
+  ],
+  "provenance": {
+    "kind": "figure_digitization_warm_start",
+    "source": "https://erich-friedman.github.io/packing/squintri/ts23.gif",
+    "source_sha256": "75ead5de18ed3be5ceae87a02485492179669bfa445ac253669fa3f02ca799ab",
+    "source_author": "David W. Cantrell",
+    "source_date": "2002-07",
+    "method": "Flood-fill the 181-gray connected regions; fit minimum-area rectangles to pixel convex hulls; use black outer triangle extent and truncated published side to initialize scale.",
+    "pixel_scale": 16.504035658354415,
+    "license": "Original figure licence unspecified; derived geometry and attribution retained for research.",
+    "certification": "not_certified",
+    "original_full_precision_incumbent": false,
+    "warning": "Raster positions and orientation are approximate and may overlap. Polishing and exact repair are mandatory."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "instance_id": "square_circle_n13",
+  "source_file": "data\\seeds\\square_circle_n13.json",
+  "purpose": "Deterministic reconstruction of published source; no randomized search.",
+  "variants": [
+    {
+      "variant": "source_direct",
+      "numeric_best": 2.360707545148003,
+      "last_size": 2.3607075455340576,
+      "last_min_constraint": -7.238654120556021e-14,
+      "iterations": 174,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.875
+    },
+    {
+      "variant": "source_fixed",
+      "numeric_best": 2.3607075452046775,
+      "last_size": 2.360707545534031,
+      "last_min_constraint": -2.241540286718191e-13,
+      "iterations": 90,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.5
+    },
+    {
+      "variant": "snap_pi6",
+      "numeric_best": 2.3607075452046775,
+      "last_size": 2.360707545534031,
+      "last_min_constraint": -2.241540286718191e-13,
+      "iterations": 90,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.484375
+    },
+    {
+      "variant": "snap_pi4",
+      "numeric_best": 2.3607075451751514,
+      "last_size": 2.360707545533968,
+      "last_min_constraint": -2.084998840246044e-13,
+      "iterations": 112,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.625
+    },
+    {
+      "variant": "snap_both",
+      "numeric_best": 2.3607075451751514,
+      "last_size": 2.360707545533968,
+      "last_min_constraint": -2.084998840246044e-13,
+      "iterations": 112,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.578125
+    }
+  ],
+  "best": {
+    "schema_version": 1,
+    "shape": "unit_square",
+    "container": "circle",
+    "n": 13,
+    "size": 2.360707545148003,
+    "pieces": [
+      {
+        "x": 0.3681438330713957,
+        "y": 1.624512447283689,
+        "theta": 0.7835428099380923
+      },
+      {
+        "x": 1.338483285015494,
+        "y": 1.1796609357820784,
+        "theta": 0.7835428098419867
+      },
+      {
+        "x": 1.6998515157003344,
+        "y": 0.08158204227394915,
+        "theta": 0.39267780263219715
+      },
+      {
+        "x": -0.8966950732275366,
+        "y": 1.47720877478957,
+        "theta": 0.7835428204324352
+      },
+      {
+        "x": -0.1909014359636645,
+        "y": 0.7687912858718721,
+        "theta": 0.7835428174390551
+      },
+      {
+        "x": 0.5174330294191675,
+        "y": -0.0009600173733322292,
+        "theta": 0.6883891002663481
+      },
+      {
+        "x": 1.0726916405479745,
+        "y": -0.9222426260663716,
+        "theta": 0.7835428199687341
+      },
+      {
+        "x": -1.5438974627211948,
+        "y": 0.7099724652931917,
+        "theta": 0.7835428173474001
+      },
+      {
+        "x": -0.8381038254555739,
+        "y": 0.0015549741978978474,
+        "theta": 0.7835428174417869
+      },
+      {
+        "x": -0.19375286160808836,
+        "y": -0.7680776173533563,
+        "theta": 0.783542817399896
+      },
+      {
+        "x": 0.362113250079384,
+        "y": -1.6258673287444028,
+        "theta": 0.7835428174099329
+      },
+      {
+        "x": -1.5465213165718241,
+        "y": -0.7042386629283294,
+        "theta": 0.7835428175144782
+      },
+      {
+        "x": -0.9021703527716367,
+        "y": -1.473871254671814,
+        "theta": 0.7835428176655719
+      }
+    ],
+    "provenance": {
+      "kind": "source_reconstruction",
+      "source_file": "data\\seeds\\square_circle_n13.json",
+      "not_certified": true,
+      "original_full_precision_incumbent": false
+    }
+  }
+}

@@ -1,0 +1,4 @@
+Interrupted before any completed run. Review found that repeated clean solver
+iterates could evict numeric_best from the certification shortlist. No result
+from this campaign is used in the pilot evaluation. Corrected code explicitly
+retains numeric_best and runs under a new manifest in results/pilot_v2.

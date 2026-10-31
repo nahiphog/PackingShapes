@@ -1,0 +1,28 @@
+{
+  "mode": "smoke",
+  "source_hashes": {
+    "run_pilot.py": "cb05438ceafbeeb3681c20030176698b4cfb644fcf8deb79232c187924b06778",
+    "packing_shapes/__init__.py": "4bd8d8cc121e06a31b3dae850570948277f75d9bd3d78b97988150f3169e5589",
+    "packing_shapes/geometry.py": "c3f6bbe4eae1dd266476a1cf97ed548fb79c1252980d13eb216cd46944d5042c",
+    "packing_shapes/search.py": "58f345837523db38efdc7d30be0b692b06121e5b6b222f7720bc5879f2b3ac9a",
+    "checkers/squares.mjs": "968b0f600d8a7891ef4b5e73c79b17d85dc0a9d24b06d8f1e2acd2f85f7aed52",
+    "checkers/select-best.mjs": "a705a26aef4366b84e269833cbebdd3d61c0a5255e3431d84f196b7b0850491b",
+    "research/pilot_targets.json": "e8cb036ed20cc18dac399e3b3f43d94960ebeee7e200c500d94583ab3482a70a",
+    "registry/records.json": "7c3268c564d6216d5cb701851fed29de10518c3536a48cf8dfe1bfb907298175"
+  },
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "scipy": "1.16.3",
+  "workers": 4,
+  "blas_threads": 1,
+  "clock": "time.process_time per worker",
+  "created_epoch": 1793331729.426855,
+  "amendments": [
+    "Warm starts use independently certified derived reference poses, not unavailable original full-precision incumbents."
+  ],
+  "metrics": {
+    "baseline_recovery_relative_tolerance": 1e-05,
+    "meaningful_local_improvement_relative": 1e-06,
+    "record_claims": "exact registry comparison plus priority review required"
+  }
+}

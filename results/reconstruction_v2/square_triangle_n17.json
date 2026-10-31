@@ -1,0 +1,157 @@
+{
+  "instance_id": "square_triangle_n17",
+  "source_file": "data\\seeds\\square_triangle_n17.json",
+  "purpose": "Deterministic reconstruction of published source; no randomized search.",
+  "variants": [
+    {
+      "variant": "source_direct",
+      "numeric_best": null,
+      "last_size": 7.197382274152595,
+      "last_min_constraint": -6.601585764995592,
+      "iterations": 132,
+      "success": false,
+      "status": "Positive directional derivative for linesearch",
+      "cpu_seconds": 1.734375
+    },
+    {
+      "variant": "source_fixed",
+      "numeric_best": 7.309401075404286,
+      "last_size": 7.309401076759051,
+      "last_min_constraint": -5.044853423896711e-13,
+      "iterations": 51,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.5625
+    },
+    {
+      "variant": "snap_pi6",
+      "numeric_best": 7.301221329416615,
+      "last_size": 8.30940107675813,
+      "last_min_constraint": -2.62456723021387e-13,
+      "iterations": 209,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 2.40625
+    },
+    {
+      "variant": "snap_pi4",
+      "numeric_best": 7.309401075404286,
+      "last_size": 7.309401076759051,
+      "last_min_constraint": -5.044853423896711e-13,
+      "iterations": 51,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 0.59375
+    },
+    {
+      "variant": "snap_both",
+      "numeric_best": 7.301221329416615,
+      "last_size": 8.30940107675813,
+      "last_min_constraint": -2.62456723021387e-13,
+      "iterations": 209,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 2.5625
+    }
+  ],
+  "best": {
+    "schema_version": 1,
+    "shape": "unit_square",
+    "container": "equilateral_triangle",
+    "n": 17,
+    "size": 7.301221329416615,
+    "pieces": [
+      {
+        "x": -0.10566243270259942,
+        "y": 5.140030448035378,
+        "theta": -0.5235987755982802
+      },
+      {
+        "x": -0.6056624312865401,
+        "y": 4.274005044630409,
+        "theta": -0.5235987735249655
+      },
+      {
+        "x": 0.47168783697356353,
+        "y": 4.14003045011191,
+        "theta": -0.523598783573804
+      },
+      {
+        "x": -1.1056624273195892,
+        "y": 3.407979641908888,
+        "theta": -0.5235987677169887
+      },
+      {
+        "x": -0.028288703125224992,
+        "y": 3.2739915027784727,
+        "theta": -0.5235987817870883
+      },
+      {
+        "x": -1.605662427772909,
+        "y": 2.541954239817178,
+        "theta": -0.5235987701951849
+      },
+      {
+        "x": -0.5283121552578579,
+        "y": 2.407979640277933,
+        "theta": -0.5235987838459787
+      },
+      {
+        "x": 1.1546474024619608,
+        "y": 2.956071743813922,
+        "theta": 0.0003244729970969894
+      },
+      {
+        "x": -2.105662428761783,
+        "y": 1.6759288397233,
+        "theta": -0.5235987755982799
+      },
+      {
+        "x": 0.5732765281004975,
+        "y": 1.5013176267966466,
+        "theta": -2.586042483881918e-05
+      },
+      {
+        "x": 1.5744403673900917,
+        "y": 1.5015332946331168,
+        "theta": 0.0003093074258995311
+      },
+      {
+        "x": -0.42673959644274456,
+        "y": 1.224966941315955,
+        "theta": -5.451455363753367e-08
+      },
+      {
+        "x": -1.4246882075152494,
+        "y": 0.6354270494882949,
+        "theta": 0.3312374602415826
+      },
+      {
+        "x": -2.5731280387810607,
+        "y": 0.5000029150684571,
+        "theta": -5.800533875673434e-06
+      },
+      {
+        "x": 0.5732603605850651,
+        "y": 0.5000527684445619,
+        "theta": -6.987086266045437e-08
+      },
+      {
+        "x": 1.5732603841708206,
+        "y": 0.5012970371333364,
+        "theta": -2.2754354774285705e-08
+      },
+      {
+        "x": 2.5732603955187354,
+        "y": 0.49999999999993167,
+        "theta": 3.6343100744888956e-14
+      }
+    ],
+    "provenance": {
+      "kind": "source_reconstruction",
+      "source_file": "data\\seeds\\square_triangle_n17.json",
+      "not_certified": true,
+      "original_full_precision_incumbent": false
+    }
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "square_triangle_n8",
+    "path": "results/pilot_v1/baselines/square_triangle_n8.json",
+    "certificate": "results/pilot_v1/baselines/square_triangle_n8.certificate.json",
+    "size": 5.301221341405,
+    "size_exact": "1060244268281/200000000000",
+    "sha256": "dcc2fc8cdd81d5997a27cdc2759e20544d44afe179359fc16b33ed947ae5f6c4"
+  },
+  {
+    "id": "square_triangle_n12",
+    "path": "results/pilot_v1/baselines/square_triangle_n12.json",
+    "certificate": "results/pilot_v1/baselines/square_triangle_n12.certificate.json",
+    "size": 6.301221362996,
+    "size_exact": "1575305340749/250000000000",
+    "sha256": "e7d254bb559ea80fd55df8e4e0cf0e283e888efc4a65bb09c4661d4381d0a7a7"
+  },
+  {
+    "id": "square_triangle_n17",
+    "path": "results/pilot_v1/baselines/square_triangle_n17.json",
+    "certificate": "results/pilot_v1/baselines/square_triangle_n17.certificate.json",
+    "size": 7.301221361769,
+    "size_exact": "7301221361769/1000000000000",
+    "sha256": "235453f7bec1190e52a3ad7f03ef5fdfb3b295b45d5a86dfd35accafc259e42b"
+  },
+  {
+    "id": "square_triangle_n23",
+    "path": "results/pilot_v1/baselines/square_triangle_n23.json",
+    "certificate": "results/pilot_v1/baselines/square_triangle_n23.certificate.json",
+    "size": 8.301221342811,
+    "size_exact": "8301221342811/1000000000000",
+    "sha256": "cdf5d8918f2f926b617b6fda2bee37c366545da27acf76dba5b9206b1bbb7589"
+  },
+  {
+    "id": "square_triangle_n30",
+    "path": "results/pilot_v1/baselines/square_triangle_n30.json",
+    "certificate": "results/pilot_v1/baselines/square_triangle_n30.certificate.json",
+    "size": 9.301221403417,
+    "size_exact": "9301221403417/1000000000000",
+    "sha256": "9111afd1f62d1c9ee1c10b859608ccd876c3fe8cd3736c454cd51d2423343001"
+  },
+  {
+    "id": "square_circle_n11",
+    "path": "results/pilot_v1/baselines/square_circle_n11.json",
+    "certificate": "results/pilot_v1/baselines/square_circle_n11.certificate.json",
+    "size": 2.213866856964,
+    "size_exact": "553466714241/250000000000",
+    "sha256": "e6ce5c2a10d3ec6ca43bd6e6012b68581d5d1eef5fba0705c4ebb568cdd27077"
+  },
+  {
+    "id": "square_circle_n13",
+    "path": "results/pilot_v1/baselines/square_circle_n13.json",
+    "certificate": "results/pilot_v1/baselines/square_circle_n13.certificate.json",
+    "size": 2.36070755549,
+    "size_exact": "236070755549/100000000000",
+    "sha256": "59ad6fa790f5945e5b5f4e5afc4aba28c13c52df06884e03163ee05731bd1b2d"
+  },
+  {
+    "id": "square_circle_n15",
+    "path": "results/pilot_v1/baselines/square_circle_n15.json",
+    "certificate": "results/pilot_v1/baselines/square_circle_n15.certificate.json",
+    "size": 2.533138970158,
+    "size_exact": "1266569485079/500000000000",
+    "sha256": "030d3b2a50e6659c066cdbb67c539c578b3717aaba922c17ed8c2f9a47c5eabd"
+  },
+  {
+    "id": "square_circle_n18",
+    "path": "results/pilot_v1/baselines/square_circle_n18.json",
+    "certificate": "results/pilot_v1/baselines/square_circle_n18.certificate.json",
+    "size": 2.741464033411,
+    "size_exact": "2741464033411/1000000000000",
+    "sha256": "0da7ef624cf82dcf799cfaf4b6691476abab30eeab0d775d781b82fc158a2248"
+  },
+  {
+    "id": "square_circle_n20",
+    "path": "results/pilot_v1/baselines/square_circle_n20.json",
+    "certificate": "results/pilot_v1/baselines/square_circle_n20.certificate.json",
+    "size": 2.893553723337,
+    "size_exact": "2893553723337/1000000000000",
+    "sha256": "d63524d73b277e8c321089628d2f33bd9740b6028f155dfd7346479c6857e98d"
+  }
+]

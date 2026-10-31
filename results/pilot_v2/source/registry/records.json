@@ -1,0 +1,523 @@
+{
+  "schema_version": 1,
+  "research_date": "2026-10-30",
+  "source_manifest": "data/sources/manifest.json",
+  "notice": "None of the ten original full-precision catalogue witnesses was available in the inspected source. Warm starts are explicitly derived, and certified_incumbent is intentionally null pending local exact replay. No world-record comparisons may use seed size as the original record.",
+  "coverage_notes": [
+    "Friedman directories contain diagrams and HTML; no original coordinates found.",
+    "Hyra SUMMARY.csv contains circle cases22,25,31,33 and triangle20,39,41,42,43; none is one of these ten.",
+    "MinMax Arena supplied current square-circle site answers for all five counts; these are derived from source arrangements and subsequent refinements.",
+    "Triangle warm starts are newly digitized source diagrams, not numerical incumbent certificates."
+  ],
+  "records": [
+    {
+      "id": "square_triangle_n8",
+      "contract": {
+        "shape": "square",
+        "unit": "edge_length_1",
+        "dimension": 2,
+        "n": 8,
+        "container": "equilateral_triangle",
+        "objective": "min_side_length",
+        "allowed_transforms": [
+          "translation",
+          "rotation"
+        ],
+        "boundary_contact": "permitted",
+        "interior_overlap": "forbidden",
+        "coordinate_convention": "vertices(-L/2,0),(L/2,0),(0,sqrt(3)*L/2)"
+      },
+      "split": "development",
+      "reported_incumbent": {
+        "display": "5.301+",
+        "numeric_semantics": "truncated_decimal_display",
+        "reported_precision_interval": {
+          "lower": "5.301",
+          "upper": "5.302",
+          "upper_open": true
+        },
+        "interval_scope": "Interval for the printed construction value, not an impossibility lower bound on the optimum.",
+        "author": "David W. Cantrell",
+        "publication_month": "2002-07",
+        "source_url": "https://erich-friedman.github.io/packing/squintri/",
+        "source_snapshot": "data/sources/friedman-squintri.html",
+        "evidence_state": "reported_catalogue",
+        "full_coordinates_available": false
+      },
+      "certified_incumbent": null,
+      "verified_lower_bound": null,
+      "newer_source_claim": null,
+      "warm_start": {
+        "path": "data/seeds/square_triangle_n8.json",
+        "sha256": "5a6f8db9332fca998fa5be4c3496b40df5cfa0a367f2318c64761ead333bf6ed",
+        "kind": "figure_digitization_warm_start",
+        "certification": "not_certified"
+      },
+      "record_priority": "unresolved_pending_full_incumbent_and_competing_claim_review",
+      "proof_status": "no_optimality_proof_imported",
+      "source_retrieval_date": "2026-10-30"
+    },
+    {
+      "id": "square_triangle_n12",
+      "contract": {
+        "shape": "square",
+        "unit": "edge_length_1",
+        "dimension": 2,
+        "n": 12,
+        "container": "equilateral_triangle",
+        "objective": "min_side_length",
+        "allowed_transforms": [
+          "translation",
+          "rotation"
+        ],
+        "boundary_contact": "permitted",
+        "interior_overlap": "forbidden",
+        "coordinate_convention": "vertices(-L/2,0),(L/2,0),(0,sqrt(3)*L/2)"
+      },
+      "split": "development",
+      "reported_incumbent": {
+        "display": "6.301+",
+        "numeric_semantics": "truncated_decimal_display",
+        "reported_precision_interval": {
+          "lower": "6.301",
+          "upper": "6.302",
+          "upper_open": true
+        },
+        "interval_scope": "Interval for the printed construction value, not an impossibility lower bound on the optimum.",
+        "author": "David W. Cantrell",
+        "publication_month": "2002-07",
+        "source_url": "https://erich-friedman.github.io/packing/squintri/",
+        "source_snapshot": "data/sources/friedman-squintri.html",
+        "evidence_state": "reported_catalogue",
+        "full_coordinates_available": false
+      },
+      "certified_incumbent": null,
+      "verified_lower_bound": null,
+      "newer_source_claim": null,
+      "warm_start": {
+        "path": "data/seeds/square_triangle_n12.json",
+        "sha256": "53f8d4659325a7b138b69730e5e99365ece7c12663ca49144fa8dd4bbaa6ac07",
+        "kind": "figure_digitization_warm_start",
+        "certification": "not_certified"
+      },
+      "record_priority": "unresolved_pending_full_incumbent_and_competing_claim_review",
+      "proof_status": "no_optimality_proof_imported",
+      "source_retrieval_date": "2026-10-30"
+    },
+    {
+      "id": "square_triangle_n17",
+      "contract": {
+        "shape": "square",
+        "unit": "edge_length_1",
+        "dimension": 2,
+        "n": 17,
+        "container": "equilateral_triangle",
+        "objective": "min_side_length",
+        "allowed_transforms": [
+          "translation",
+          "rotation"
+        ],
+        "boundary_contact": "permitted",
+        "interior_overlap": "forbidden",
+        "coordinate_convention": "vertices(-L/2,0),(L/2,0),(0,sqrt(3)*L/2)"
+      },
+      "split": "held_out",
+      "reported_incumbent": {
+        "display": "7.301+",
+        "numeric_semantics": "truncated_decimal_display",
+        "reported_precision_interval": {
+          "lower": "7.301",
+          "upper": "7.302",
+          "upper_open": true
+        },
+        "interval_scope": "Interval for the printed construction value, not an impossibility lower bound on the optimum.",
+        "author": "David W. Cantrell",
+        "publication_month": "2002-07",
+        "source_url": "https://erich-friedman.github.io/packing/squintri/",
+        "source_snapshot": "data/sources/friedman-squintri.html",
+        "evidence_state": "reported_catalogue",
+        "full_coordinates_available": false
+      },
+      "certified_incumbent": null,
+      "verified_lower_bound": null,
+      "newer_source_claim": null,
+      "warm_start": {
+        "path": "data/seeds/square_triangle_n17.json",
+        "sha256": "bec1bea559e3a536050004db055deaee558c0d1f5b84a74cfb66411c1028bdec",
+        "kind": "figure_digitization_warm_start",
+        "certification": "not_certified"
+      },
+      "record_priority": "unresolved_pending_full_incumbent_and_competing_claim_review",
+      "proof_status": "no_optimality_proof_imported",
+      "source_retrieval_date": "2026-10-30"
+    },
+    {
+      "id": "square_triangle_n23",
+      "contract": {
+        "shape": "square",
+        "unit": "edge_length_1",
+        "dimension": 2,
+        "n": 23,
+        "container": "equilateral_triangle",
+        "objective": "min_side_length",
+        "allowed_transforms": [
+          "translation",
+          "rotation"
+        ],
+        "boundary_contact": "permitted",
+        "interior_overlap": "forbidden",
+        "coordinate_convention": "vertices(-L/2,0),(L/2,0),(0,sqrt(3)*L/2)"
+      },
+      "split": "held_out",
+      "reported_incumbent": {
+        "display": "8.301+",
+        "numeric_semantics": "truncated_decimal_display",
+        "reported_precision_interval": {
+          "lower": "8.301",
+          "upper": "8.302",
+          "upper_open": true
+        },
+        "interval_scope": "Interval for the printed construction value, not an impossibility lower bound on the optimum.",
+        "author": "David W. Cantrell",
+        "publication_month": "2002-07",
+        "source_url": "https://erich-friedman.github.io/packing/squintri/",
+        "source_snapshot": "data/sources/friedman-squintri.html",
+        "evidence_state": "reported_catalogue",
+        "full_coordinates_available": false
+      },
+      "certified_incumbent": null,
+      "verified_lower_bound": null,
+      "newer_source_claim": null,
+      "warm_start": {
+        "path": "data/seeds/square_triangle_n23.json",
+        "sha256": "93a4c670f4455dd23f3f7cf33c54bc031e02863c9b4b5ce00cd855ff292e9ba6",
+        "kind": "figure_digitization_warm_start",
+        "certification": "not_certified"
+      },
+      "record_priority": "unresolved_pending_full_incumbent_and_competing_claim_review",
+      "proof_status": "no_optimality_proof_imported",
+      "source_retrieval_date": "2026-10-30"
+    },
+    {
+      "id": "square_triangle_n30",
+      "contract": {
+        "shape": "square",
+        "unit": "edge_length_1",
+        "dimension": 2,
+        "n": 30,
+        "container": "equilateral_triangle",
+        "objective": "min_side_length",
+        "allowed_transforms": [
+          "translation",
+          "rotation"
+        ],
+        "boundary_contact": "permitted",
+        "interior_overlap": "forbidden",
+        "coordinate_convention": "vertices(-L/2,0),(L/2,0),(0,sqrt(3)*L/2)"
+      },
+      "split": "held_out",
+      "reported_incumbent": {
+        "display": "9.301+",
+        "numeric_semantics": "truncated_decimal_display",
+        "reported_precision_interval": {
+          "lower": "9.301",
+          "upper": "9.302",
+          "upper_open": true
+        },
+        "interval_scope": "Interval for the printed construction value, not an impossibility lower bound on the optimum.",
+        "author": "David W. Cantrell",
+        "publication_month": "2002-07",
+        "source_url": "https://erich-friedman.github.io/packing/squintri/",
+        "source_snapshot": "data/sources/friedman-squintri.html",
+        "evidence_state": "reported_catalogue",
+        "full_coordinates_available": false
+      },
+      "certified_incumbent": null,
+      "verified_lower_bound": null,
+      "newer_source_claim": null,
+      "warm_start": {
+        "path": "data/seeds/square_triangle_n30.json",
+        "sha256": "930f777e8ca592b372aadf30a1a632659ad18b825bbf933f28ef4430a7538fdf",
+        "kind": "figure_digitization_warm_start",
+        "certification": "not_certified"
+      },
+      "record_priority": "unresolved_pending_full_incumbent_and_competing_claim_review",
+      "proof_status": "no_optimality_proof_imported",
+      "source_retrieval_date": "2026-10-30"
+    },
+    {
+      "id": "square_circle_n11",
+      "contract": {
+        "shape": "square",
+        "unit": "edge_length_1",
+        "dimension": 2,
+        "n": 11,
+        "container": "circle",
+        "objective": "min_radius",
+        "allowed_transforms": [
+          "translation",
+          "rotation"
+        ],
+        "boundary_contact": "permitted",
+        "interior_overlap": "forbidden",
+        "coordinate_convention": "center(0,0), radius=size"
+      },
+      "split": "development",
+      "reported_incumbent": {
+        "display": "2.21386+",
+        "numeric_semantics": "truncated_decimal_display",
+        "reported_precision_interval": {
+          "lower": "2.21386",
+          "upper": "2.21387",
+          "upper_open": true
+        },
+        "interval_scope": "Interval for the printed construction value, not an impossibility lower bound on the optimum.",
+        "author": "Milan Kovacic",
+        "publication_month": "2006-05",
+        "source_url": "https://erich-friedman.github.io/packing/squincir/",
+        "source_snapshot": "data/sources/friedman-squincir.html",
+        "evidence_state": "reported_catalogue",
+        "full_coordinates_available": false
+      },
+      "certified_incumbent": null,
+      "verified_lower_bound": null,
+      "newer_source_claim": {
+        "type": "site_witness",
+        "holder": "zzzcy",
+        "reported_common_side": "0.451698332",
+        "normalized_radius_estimate": 2.213866926151613,
+        "site_record_status": "matched",
+        "source_semantics": "Min-side objective allows last-digit size differences; normalization is a derived pose, not source exact congruence.",
+        "source_instance": "p05-n11-v2"
+      },
+      "warm_start": {
+        "path": "data/seeds/square_circle_n11.json",
+        "sha256": "fdf03b139773c03724d25cc0f4923cfcac441661babc8399cb9b5aaf5db18f29",
+        "kind": "source_derived_warm_start",
+        "certification": "not_certified"
+      },
+      "record_priority": "unresolved_pending_full_incumbent_and_competing_claim_review",
+      "proof_status": "no_optimality_proof_imported",
+      "source_retrieval_date": "2026-10-30"
+    },
+    {
+      "id": "square_circle_n13",
+      "contract": {
+        "shape": "square",
+        "unit": "edge_length_1",
+        "dimension": 2,
+        "n": 13,
+        "container": "circle",
+        "objective": "min_radius",
+        "allowed_transforms": [
+          "translation",
+          "rotation"
+        ],
+        "boundary_contact": "permitted",
+        "interior_overlap": "forbidden",
+        "coordinate_convention": "center(0,0), radius=size"
+      },
+      "split": "development",
+      "reported_incumbent": {
+        "display": "2.3607+",
+        "numeric_semantics": "truncated_decimal_display",
+        "reported_precision_interval": {
+          "lower": "2.3607",
+          "upper": "2.3608",
+          "upper_open": true
+        },
+        "interval_scope": "Interval for the printed construction value, not an impossibility lower bound on the optimum.",
+        "author": "David W. Cantrell",
+        "publication_month": "2010-11",
+        "source_url": "https://erich-friedman.github.io/packing/squincir/",
+        "source_snapshot": "data/sources/friedman-squincir.html",
+        "evidence_state": "reported_catalogue",
+        "full_coordinates_available": false
+      },
+      "certified_incumbent": null,
+      "verified_lower_bound": null,
+      "newer_source_claim": {
+        "type": "site_witness",
+        "holder": "zzzcy",
+        "reported_common_side": "0.423601812",
+        "normalized_radius_estimate": 2.36070755593943,
+        "site_record_status": "matched",
+        "source_semantics": "Min-side objective allows last-digit size differences; normalization is a derived pose, not source exact congruence.",
+        "source_instance": "p05-n13-v2"
+      },
+      "warm_start": {
+        "path": "data/seeds/square_circle_n13.json",
+        "sha256": "ab697eec3282b4f7ac770aa102cd6292fa91a8c350657469960dfe2d4e54a7cd",
+        "kind": "source_derived_warm_start",
+        "certification": "not_certified"
+      },
+      "record_priority": "unresolved_pending_full_incumbent_and_competing_claim_review",
+      "proof_status": "no_optimality_proof_imported",
+      "source_retrieval_date": "2026-10-30"
+    },
+    {
+      "id": "square_circle_n15",
+      "contract": {
+        "shape": "square",
+        "unit": "edge_length_1",
+        "dimension": 2,
+        "n": 15,
+        "container": "circle",
+        "objective": "min_radius",
+        "allowed_transforms": [
+          "translation",
+          "rotation"
+        ],
+        "boundary_contact": "permitted",
+        "interior_overlap": "forbidden",
+        "coordinate_convention": "center(0,0), radius=size"
+      },
+      "split": "held_out",
+      "reported_incumbent": {
+        "display": "2.533+",
+        "numeric_semantics": "truncated_decimal_display",
+        "reported_precision_interval": {
+          "lower": "2.533",
+          "upper": "2.534",
+          "upper_open": true
+        },
+        "interval_scope": "Interval for the printed construction value, not an impossibility lower bound on the optimum.",
+        "author": "David W. Cantrell",
+        "publication_month": "2002-06",
+        "source_url": "https://erich-friedman.github.io/packing/squincir/",
+        "source_snapshot": "data/sources/friedman-squincir.html",
+        "evidence_state": "reported_catalogue",
+        "full_coordinates_available": false
+      },
+      "certified_incumbent": null,
+      "verified_lower_bound": null,
+      "newer_source_claim": {
+        "type": "site_witness",
+        "holder": "zzzcy",
+        "reported_common_side": "0.394765492",
+        "normalized_radius_estimate": 2.5331494753717156,
+        "site_record_status": "matched",
+        "source_semantics": "Min-side objective allows last-digit size differences; normalization is a derived pose, not source exact congruence.",
+        "source_instance": "p05-n15-v2"
+      },
+      "warm_start": {
+        "path": "data/seeds/square_circle_n15.json",
+        "sha256": "3ebc1ca72dedd377aa346e7dc55072025d2d26f3ba9975645e3d2f3f3ec957bd",
+        "kind": "source_derived_warm_start",
+        "certification": "not_certified"
+      },
+      "record_priority": "unresolved_pending_full_incumbent_and_competing_claim_review",
+      "proof_status": "no_optimality_proof_imported",
+      "source_retrieval_date": "2026-10-30"
+    },
+    {
+      "id": "square_circle_n18",
+      "contract": {
+        "shape": "square",
+        "unit": "edge_length_1",
+        "dimension": 2,
+        "n": 18,
+        "container": "circle",
+        "objective": "min_radius",
+        "allowed_transforms": [
+          "translation",
+          "rotation"
+        ],
+        "boundary_contact": "permitted",
+        "interior_overlap": "forbidden",
+        "coordinate_convention": "center(0,0), radius=size"
+      },
+      "split": "held_out",
+      "reported_incumbent": {
+        "display": "2.74146+",
+        "numeric_semantics": "exact_algebraic_expression_with_truncated_decimal_display",
+        "expression": "sqrt(481)/8",
+        "squared_value": {
+          "numerator": "481",
+          "denominator": "64"
+        },
+        "author": "David W. Cantrell",
+        "publication_month": "2002-03",
+        "source_url": "https://erich-friedman.github.io/packing/squincir/",
+        "source_snapshot": "data/sources/friedman-squincir.html",
+        "evidence_state": "reported_catalogue",
+        "full_coordinates_available": false
+      },
+      "certified_incumbent": null,
+      "verified_lower_bound": null,
+      "newer_source_claim": {
+        "type": "site_witness",
+        "holder": "zzzcy",
+        "reported_common_side": "0.364768597",
+        "normalized_radius_estimate": 2.741464061622671,
+        "site_record_status": "open",
+        "source_semantics": "Min-side objective allows last-digit size differences; normalization is a derived pose, not source exact congruence.",
+        "source_instance": "p05-n18-v2"
+      },
+      "warm_start": {
+        "path": "data/seeds/square_circle_n18.json",
+        "sha256": "af3270c520fb48910b837919fdadc80e6355ff4d024164d241ff93fba61f5400",
+        "kind": "source_derived_warm_start",
+        "certification": "not_certified"
+      },
+      "record_priority": "unresolved_pending_full_incumbent_and_competing_claim_review",
+      "proof_status": "no_optimality_proof_imported",
+      "source_retrieval_date": "2026-10-30"
+    },
+    {
+      "id": "square_circle_n20",
+      "contract": {
+        "shape": "square",
+        "unit": "edge_length_1",
+        "dimension": 2,
+        "n": 20,
+        "container": "circle",
+        "objective": "min_radius",
+        "allowed_transforms": [
+          "translation",
+          "rotation"
+        ],
+        "boundary_contact": "permitted",
+        "interior_overlap": "forbidden",
+        "coordinate_convention": "center(0,0), radius=size"
+      },
+      "split": "held_out",
+      "reported_incumbent": {
+        "display": "2.893+",
+        "numeric_semantics": "truncated_decimal_display",
+        "reported_precision_interval": {
+          "lower": "2.893",
+          "upper": "2.894",
+          "upper_open": true
+        },
+        "interval_scope": "Interval for the printed construction value, not an impossibility lower bound on the optimum.",
+        "author": "David W. Cantrell",
+        "publication_month": "2002-06",
+        "source_url": "https://erich-friedman.github.io/packing/squincir/",
+        "source_snapshot": "data/sources/friedman-squincir.html",
+        "evidence_state": "reported_catalogue",
+        "full_coordinates_available": false
+      },
+      "certified_incumbent": null,
+      "verified_lower_bound": null,
+      "newer_source_claim": {
+        "type": "site_witness",
+        "holder": "zzzcy",
+        "reported_common_side": "0.345594907",
+        "normalized_radius_estimate": 2.8935611525464826,
+        "site_record_status": "matched",
+        "source_semantics": "Min-side objective allows last-digit size differences; normalization is a derived pose, not source exact congruence.",
+        "source_instance": "p05-n20-v2"
+      },
+      "warm_start": {
+        "path": "data/seeds/square_circle_n20.json",
+        "sha256": "3bcfe7f32162c131d44228dbcb269ad88977e0c53b76cf4cb73a0384ae6e2d6e",
+        "kind": "source_derived_warm_start",
+        "certification": "not_certified"
+      },
+      "record_priority": "unresolved_pending_full_incumbent_and_competing_claim_review",
+      "proof_status": "no_optimality_proof_imported",
+      "source_retrieval_date": "2026-10-30"
+    }
+  ]
+}

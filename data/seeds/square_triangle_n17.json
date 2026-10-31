@@ -1,0 +1,107 @@
+{
+  "instance_id": "square_triangle_n17",
+  "shape": "unit_square",
+  "container": "equilateral_triangle",
+  "n": 17,
+  "size": 7.301,
+  "pieces": [
+    {
+      "x": -0.1241803470596336,
+      "y": 5.137647638066382,
+      "theta": -0.5070985043923368
+    },
+    {
+      "x": -0.6112179112857945,
+      "y": 4.266227231892195,
+      "theta": -0.519146114246523
+    },
+    {
+      "x": 0.4620313317724832,
+      "y": 4.1251001928109075,
+      "theta": -0.5070985043923368
+    },
+    {
+      "x": -1.1308869686560747,
+      "y": 3.391093495062258,
+      "theta": -0.540419500270584
+    },
+    {
+      "x": -0.045454916273078884,
+      "y": 3.2727539716616576,
+      "theta": -0.540419500270584
+    },
+    {
+      "x": -1.6163555295413854,
+      "y": 2.5263410687233163,
+      "theta": -0.5070985043923368
+    },
+    {
+      "x": -0.5537840173529812,
+      "y": 2.3978873089106183,
+      "theta": -0.5070985043923368
+    },
+    {
+      "x": 1.0658394160583942,
+      "y": 2.4780766423357665,
+      "theta": 0
+    },
+    {
+      "x": -2.122629252169123,
+      "y": 1.6736695358766007,
+      "theta": -0.5070985043923368
+    },
+    {
+      "x": 0.5862116788321168,
+      "y": 1.4921751824817517,
+      "theta": 0
+    },
+    {
+      "x": 1.5721131386861313,
+      "y": 1.4921751824817517,
+      "theta": 0
+    },
+    {
+      "x": -0.4263357664233577,
+      "y": 1.2257153284671534,
+      "theta": 0
+    },
+    {
+      "x": -1.4069080291970801,
+      "y": 0.6235160583941615,
+      "theta": 0.32175055439664213
+    },
+    {
+      "x": -2.558014598540146,
+      "y": 0.5062737226277372,
+      "theta": 0
+    },
+    {
+      "x": 0.5862116788321168,
+      "y": 0.5062737226277372,
+      "theta": 0
+    },
+    {
+      "x": 1.5721131386861313,
+      "y": 0.5062737226277372,
+      "theta": 0
+    },
+    {
+      "x": 2.558014598540146,
+      "y": 0.5062737226277372,
+      "theta": 0
+    }
+  ],
+  "provenance": {
+    "kind": "figure_digitization_warm_start",
+    "source": "https://erich-friedman.github.io/packing/squintri/ts17.gif",
+    "source_sha256": "cee0ec9c84379ae09d36ff979be34de3c5888a63c87fec9d94e96398573db772",
+    "source_author": "David W. Cantrell",
+    "source_date": "2002-07",
+    "method": "Flood-fill the 181-gray connected regions; fit minimum-area rectangles to pixel convex hulls; use black outer triangle extent and truncated published side to initialize scale.",
+    "pixel_scale": 18.764552800986166,
+    "license": "Original figure licence unspecified; derived geometry and attribution retained for research.",
+    "certification": "not_certified",
+    "original_full_precision_incumbent": false,
+    "warning": "Raster positions and orientation are approximate and may overlap. Polishing and exact repair are mandatory."
+  }
+}

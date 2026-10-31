@@ -1,0 +1,98 @@
+{
+  "captured_at": "2026-10-30T04:17:08.709Z",
+  "note": "Custody begins at monitoring handoff, not campaign launch.",
+  "files": [
+    {
+      "path": "results/pilot_v2/baselines/index.json",
+      "sha256": "3916fd9678b66535de085d7180fab580b32bf28d72f1e7d9630ccfa22cc4588a"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_circle_n11.certificate.json",
+      "sha256": "a4bc29854f4e6a5d63eaae76aab3604912b797c3a9c398f58ce48797b36b25ca"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_circle_n11.json",
+      "sha256": "fe4778b25ae68bf141b1e55e6a0f79a6ec691d7585bf0a78223a5ea0b4af2da2"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_circle_n13.certificate.json",
+      "sha256": "44fb14bdd9834b0fd31e3f0360ead3cb5221c96e2c9320f4a32f90b3f2fe030e"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_circle_n13.json",
+      "sha256": "658cbf4d90f591c52b311b4e1b8d21cfa93286f0c48c890935ac93325b8deb10"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_circle_n15.certificate.json",
+      "sha256": "a4599b058026ef6f7d827cb339391f5d21f54be0c83e00ba3ceb9aaba709193f"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_circle_n15.json",
+      "sha256": "2806d0087d16822a68e6bead0a1e5757033839ccbaabb7ce08070e03431e997e"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_circle_n18.certificate.json",
+      "sha256": "b7b85003369c372fa9d1eb509097b9865e7807cb56546dc3f6d2ef045eaa190d"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_circle_n18.json",
+      "sha256": "42c59f2741a0b50f52d472d74ece397ff503c887557140be3093cea0e7e30650"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_circle_n20.certificate.json",
+      "sha256": "3b456084a0eca41c5bb72b6beb001b50c3f6553497ec1d84139abea643e79670"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_circle_n20.json",
+      "sha256": "f7a90f2ae0713a3228834ece65346269e1ab792af08b44142468c32b65448584"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_triangle_n12.certificate.json",
+      "sha256": "f79ef19dbaecd241b7f27c499eab88613337fef10110c571aed5e86484e5d3c2"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_triangle_n12.json",
+      "sha256": "5366d5f0b888dcac774c478cebc66f088f91c8d64520048c21967738e86374ea"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_triangle_n17.certificate.json",
+      "sha256": "f5dc7e69054986fa6182cee94db6cd9d853d1e6498bfb84be21e508ea6047f45"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_triangle_n17.json",
+      "sha256": "8c9ace1b82a52c75a0c5970c023fd98bb3a262ef7842368a36b20bd60071a347"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_triangle_n23.certificate.json",
+      "sha256": "d9b8e79fdf2e3d548f7785079e66ea1828a8f371762e2181513492f69b9c848f"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_triangle_n23.json",
+      "sha256": "a44ce0fbd9f05adcf7de8e32f768e35f0cee2dab33b1e92b443d992e280dd6df"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_triangle_n30.certificate.json",
+      "sha256": "2b1baa3e1cb50dbd54ff01a9f9c83cb43eb54c8b337b710ccc4d5cd8d21ffb57"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_triangle_n30.json",
+      "sha256": "cb991c39417d77a3eb596c870b29b82561fa710d9656e3474114a655521746d9"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_triangle_n8.certificate.json",
+      "sha256": "4299f1fdffde6c518534d1c543739a1650b9b70d431ba76ca8d2d34796a914cc"
+    },
+    {
+      "path": "results/pilot_v2/baselines/square_triangle_n8.json",
+      "sha256": "7d7dd23841a7d75da0cb0ee3144de425cda47e8bf55d420cc74c4ec7936c19b5"
+    },
+    {
+      "path": "results/pilot_v2/manifest.json",
+      "sha256": "1da328f35d85eee002a0ce21a668bf61010ca1f802afe5565c1d7fb0baa5b50f"
+    },
+    {
+      "path": "results/pilot_v2/tasks.json",
+      "sha256": "db45880117a7235f4df9431824206b0bd0672289e523da27fc6da52bde7bf8b0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{"task_id": "square_circle_n11__rigid__00", "status": "certified", "certified_size": 2.21386684614, "cpu_seconds": 4.0, "wall_seconds": 4.812000000005355}
+{"task_id": "square_circle_n11__homotopy__00", "status": "certified", "certified_size": 2.213866846136, "cpu_seconds": 4.0, "wall_seconds": 4.561999999998079}
+{"task_id": "square_circle_n11__anneal__00", "status": "certified", "certified_size": 2.213866846137, "cpu_seconds": 4.0, "wall_seconds": 4.625}
+{"task_id": "square_circle_n11__basin__00", "status": "certified", "certified_size": 2.213866846137, "cpu_seconds": 4.0, "wall_seconds": 4.5939999999973224}
+{"task_id": "square_triangle_n8__anneal__00", "status": "certified", "certified_size": 5.301221331456, "cpu_seconds": 4.0, "wall_seconds": 5.281999999999243}
+{"task_id": "square_triangle_n8__basin__00", "status": "certified", "certified_size": 5.301221331397, "cpu_seconds": 4.0, "wall_seconds": 5.4060000000026776}
+{"task_id": "square_circle_n11__structured__00", "status": "certified", "certified_size": 2.213866846136, "cpu_seconds": 4.0, "wall_seconds": 5.421999999998661}
+{"task_id": "square_triangle_n8__rigid__00", "status": "certified", "certified_size": 5.301221331396, "cpu_seconds": 4.0, "wall_seconds": 5.953000000001339}
+{"task_id": "square_triangle_n8__structured__00", "status": "certified", "certified_size": 5.301221331399, "cpu_seconds": 4.0, "wall_seconds": 5.109000000004016}
+{"task_id": "square_triangle_n8__homotopy__00", "status": "certified", "certified_size": 5.301221331396, "cpu_seconds": 4.0, "wall_seconds": 4.671999999998661}

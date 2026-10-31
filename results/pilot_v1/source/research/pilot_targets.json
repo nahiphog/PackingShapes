@@ -1,0 +1,30 @@
+{
+  "status": "proposed_not_run",
+  "research_date": "2026-10-30",
+  "shape": "unit_square",
+  "allowed_transforms": ["translation", "rotation"],
+  "boundary_contact": "permitted",
+  "overlap_rule": "pairwise_disjoint_interiors",
+  "notice": "Catalogue displays are truncated leads, not certificate thresholds. Full incumbent acquisition and competing-claim review are required before asserting a record.",
+  "search_budget": {
+    "arms": 5,
+    "runs_per_arm_per_instance": 24,
+    "cpu_seconds_per_run": 120,
+    "fresh_start_runs": 12,
+    "incumbent_derived_runs": 12,
+    "total_search_cpu_hours": 40,
+    "certification_budget": "accounted_separately"
+  },
+  "instances": [
+    {"id": "square_triangle_n8", "container": "equilateral_triangle", "objective": "min_side_length", "n": 8, "catalogue_display": "5.301+", "split": "development", "source": "https://erich-friedman.github.io/packing/squintri/", "full_incumbent": "not_imported"},
+    {"id": "square_triangle_n12", "container": "equilateral_triangle", "objective": "min_side_length", "n": 12, "catalogue_display": "6.301+", "split": "development", "source": "https://erich-friedman.github.io/packing/squintri/", "full_incumbent": "not_imported"},
+    {"id": "square_triangle_n17", "container": "equilateral_triangle", "objective": "min_side_length", "n": 17, "catalogue_display": "7.301+", "split": "held_out", "source": "https://erich-friedman.github.io/packing/squintri/", "full_incumbent": "not_imported"},
+    {"id": "square_triangle_n23", "container": "equilateral_triangle", "objective": "min_side_length", "n": 23, "catalogue_display": "8.301+", "split": "held_out", "source": "https://erich-friedman.github.io/packing/squintri/", "full_incumbent": "not_imported"},
+    {"id": "square_triangle_n30", "container": "equilateral_triangle", "objective": "min_side_length", "n": 30, "catalogue_display": "9.301+", "split": "held_out", "source": "https://erich-friedman.github.io/packing/squintri/", "full_incumbent": "not_imported"},
+    {"id": "square_circle_n11", "container": "circle", "objective": "min_radius", "n": 11, "catalogue_display": "2.21386+", "split": "development", "source": "https://erich-friedman.github.io/packing/squincir/", "full_incumbent": "not_imported"},
+    {"id": "square_circle_n13", "container": "circle", "objective": "min_radius", "n": 13, "catalogue_display": "2.3607+", "split": "development", "source": "https://erich-friedman.github.io/packing/squincir/", "full_incumbent": "not_imported"},
+    {"id": "square_circle_n15", "container": "circle", "objective": "min_radius", "n": 15, "catalogue_display": "2.533+", "split": "held_out", "source": "https://erich-friedman.github.io/packing/squincir/", "full_incumbent": "not_imported"},
+    {"id": "square_circle_n18", "container": "circle", "objective": "min_radius", "n": 18, "catalogue_display": "2.74146+", "split": "held_out", "source": "https://erich-friedman.github.io/packing/squincir/", "full_incumbent": "not_imported"},
+    {"id": "square_circle_n20", "container": "circle", "objective": "min_radius", "n": 20, "catalogue_display": "2.893+", "split": "held_out", "source": "https://erich-friedman.github.io/packing/squincir/", "full_incumbent": "not_imported"}
+  ]
+}

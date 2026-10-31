@@ -1,0 +1,162 @@
+{
+  "instance_id": "square_circle_n18",
+  "source_file": "data\\seeds\\square_circle_n18.json",
+  "purpose": "Deterministic reconstruction of published source; no randomized search.",
+  "variants": [
+    {
+      "variant": "source_direct",
+      "numeric_best": 2.7414640249324003,
+      "last_size": 2.741456790164366,
+      "last_min_constraint": -1.3020464744273319e-05,
+      "iterations": 315,
+      "success": false,
+      "status": "Positive directional derivative for linesearch",
+      "cpu_seconds": 2.203125
+    },
+    {
+      "variant": "source_fixed",
+      "numeric_best": 2.741464024637796,
+      "last_size": 2.7414640249326645,
+      "last_min_constraint": -9.57456336436735e-13,
+      "iterations": 273,
+      "success": true,
+      "status": "Optimization terminated successfully",
+      "cpu_seconds": 2.078125
+    },
+    {
+      "variant": "snap_pi6",
+      "numeric_best": 2.741464024213921,
+      "last_size": 2.7414640249315365,
+      "last_min_constraint": -1.4351786425947921e-09,
+      "iterations": 600,
+      "success": false,
+      "status": "Iteration limit reached",
+      "cpu_seconds": 5.828125
+    },
+    {
+      "variant": "snap_pi4",
+      "numeric_best": 2.741464024213921,
+      "last_size": 2.7414640249315365,
+      "last_min_constraint": -1.4351786425947921e-09,
+      "iterations": 600,
+      "success": false,
+      "status": "Iteration limit reached",
+      "cpu_seconds": 6.859375
+    },
+    {
+      "variant": "snap_both",
+      "numeric_best": 2.741464024213921,
+      "last_size": 2.7414640249315365,
+      "last_min_constraint": -1.4351786425947921e-09,
+      "iterations": 600,
+      "success": false,
+      "status": "Iteration limit reached",
+      "cpu_seconds": 6.859375
+    }
+  ],
+  "best": {
+    "schema_version": 1,
+    "shape": "unit_square",
+    "container": "circle",
+    "n": 18,
+    "size": 2.741464024213921,
+    "pieces": [
+      {
+        "x": 3.220000647498119e-06,
+        "y": -0.013729256175569455,
+        "theta": -1.5664565415673308e-05
+      },
+      {
+        "x": -0.49997581457237866,
+        "y": 2.001189936929625,
+        "theta": -1.5647252870714888e-05
+      },
+      {
+        "x": -0.4999914952964262,
+        "y": 0.9996112800659535,
+        "theta": -1.5664736635727264e-05
+      },
+      {
+        "x": -0.9999967438547883,
+        "y": -0.011419403226914208,
+        "theta": -1.5664734403133336e-05
+      },
+      {
+        "x": 1.000003057198889,
+        "y": -0.024039366307179087,
+        "theta": -1.5661663767165352e-05
+      },
+      {
+        "x": -2.0000063551827747,
+        "y": -0.6249763023939923,
+        "theta": -1.566473325186997e-05
+      },
+      {
+        "x": 1.9999936445946522,
+        "y": -0.6250236939464786,
+        "theta": -1.566475931843842e-05
+      },
+      {
+        "x": -1.2489439460389813e-05,
+        "y": -1.016589456620522,
+        "theta": -1.566471687838503e-05
+      },
+      {
+        "x": -0.4815926485826751,
+        "y": -2.0269257950621333,
+        "theta": 0.0004828074841745674
+      },
+      {
+        "x": 0.5000241129387473,
+        "y": 1.9965503090287553,
+        "theta": -1.564728058602942e-05
+      },
+      {
+        "x": -1.4999856148056523,
+        "y": 1.3750158651598938,
+        "theta": -1.5664741696537813e-05
+      },
+      {
+        "x": 1.5000143872408591,
+        "y": 1.374984130828116,
+        "theta": -1.564728066897017e-05
+      },
+      {
+        "x": 0.5000084039480901,
+        "y": 0.9926079731077411,
+        "theta": -1.5647083255645946e-05
+      },
+      {
+        "x": -2.0105061603583145,
+        "y": 0.3750238622090953,
+        "theta": -1.566474049188192e-05
+      },
+      {
+        "x": 2.0391217913810995,
+        "y": 0.3749756945599616,
+        "theta": -1.566212577332887e-05
+      },
+      {
+        "x": -1.000012461090821,
+        "y": -1.0147711248952618,
+        "theta": -1.5664742814691014e-05
+      },
+      {
+        "x": 0.9999873094700136,
+        "y": -1.0294345021127573,
+        "theta": -1.5664717097147922e-05
+      },
+      {
+        "x": 0.5248221469284767,
+        "y": -2.0386417764024394,
+        "theta": 0.0002462221633756328
+      }
+    ],
+    "provenance": {
+      "kind": "source_reconstruction",
+      "source_file": "data\\seeds\\square_circle_n18.json",
+      "not_certified": true,
+      "original_full_precision_incumbent": false
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "instance_id": "square_triangle_n12",
+  "shape": "unit_square",
+  "container": "equilateral_triangle",
+  "n": 12,
+  "size": 6.301,
+  "pieces": [
+    {
+      "x": -0.12022444309973183,
+      "y": 4.265048504216936,
+      "theta": -0.5280744484263595
+    },
+    {
+      "x": -0.6236419575659019,
+      "y": 3.395476665027798,
+      "theta": -0.5280744484263598
+    },
+    {
+      "x": 0.4676718921372111,
+      "y": 3.259047539805606,
+      "theta": -0.5280744484263595
+    },
+    {
+      "x": -1.1200575354229283,
+      "y": 2.5255403606698152,
+      "theta": -0.540419500270584
+    },
+    {
+      "x": -0.03824781589198599,
+      "y": 2.385186225936992,
+      "theta": -0.5280744484263595
+    },
+    {
+      "x": -1.611770110812753,
+      "y": 1.6588351802125487,
+      "theta": -0.5280744484263595
+    },
+    {
+      "x": 1.0808284671532846,
+      "y": 1.494762773722628,
+      "theta": 0
+    },
+    {
+      "x": 0.06898905109489052,
+      "y": 1.2188065693430659,
+      "theta": 0
+    },
+    {
+      "x": -0.917554379562044,
+      "y": 0.6369989051094895,
+      "theta": 0.32175055439664213
+    },
+    {
+      "x": -2.0696715328467152,
+      "y": 0.5059197080291971,
+      "theta": 0
+    },
+    {
+      "x": 1.0808284671532846,
+      "y": 0.5059197080291971,
+      "theta": 0
+    },
+    {
+      "x": 2.0696715328467152,
+      "y": 0.5059197080291971,
+      "theta": 0
+    }
+  ],
+  "provenance": {
+    "kind": "figure_digitization_warm_start",
+    "source": "https://erich-friedman.github.io/packing/squintri/ts12.gif",
+    "source_sha256": "d8c55875a699fe642f0a08539812fcc08ed1da7b4fd7ae7a14818d059a2302a9",
+    "source_author": "David W. Cantrell",
+    "source_date": "2002-07",
+    "method": "Flood-fill the 181-gray connected regions; fit minimum-area rectangles to pixel convex hulls; use black outer triangle extent and truncated published side to initialize scale.",
+    "pixel_scale": 21.742580542770988,
+    "license": "Original figure licence unspecified; derived geometry and attribution retained for research.",
+    "certification": "not_certified",
+    "original_full_precision_incumbent": false,
+    "warning": "Raster positions and orientation are approximate and may overlap. Polishing and exact repair are mandatory."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "instance_id": "square_circle_n18",
+  "shape": "unit_square",
+  "container": "circle",
+  "n": 18,
+  "size": 2.741464061622671,
+  "pieces": [
+    {
+      "x": -0.00021014418617964982,
+      "y": -0.013984411046677912,
+      "theta": -0.015027275690262076
+    },
+    {
+      "x": -0.46998554514149443,
+      "y": 2.000940726877864,
+      "theta": -0.015027204420244633
+    },
+    {
+      "x": -0.48503468874188926,
+      "y": 0.9995563099744338,
+      "theta": -0.015027215384862735
+    },
+    {
+      "x": -1.0002859095124739,
+      "y": -0.011510629018960071,
+      "theta": -0.015027253761026316
+    },
+    {
+      "x": 0.9997478341367073,
+      "y": -0.024295794836273234,
+      "theta": -0.015027303184197649
+    },
+    {
+      "x": -2.0091658921555977,
+      "y": -0.5948760712206733,
+      "theta": -0.015027264725643974
+    },
+    {
+      "x": 1.9903825373031934,
+      "y": -0.6549828517083784,
+      "theta": -0.01502729770188882
+    },
+    {
+      "x": -0.015279051000994878,
+      "y": -1.0166790339373668,
+      "theta": -0.015027275690262076
+    },
+    {
+      "x": -0.48092736971402067,
+      "y": -2.0260715497355957,
+      "theta": -0.000057351427978691305
+    },
+    {
+      "x": 0.5300573500307013,
+      "y": 1.996280468256087,
+      "theta": -0.015027204420244633
+    },
+    {
+      "x": -1.4791689886659913,
+      "y": 1.3973847856672685,
+      "theta": -0.015027358007288605
+    },
+    {
+      "x": 1.5204923896281155,
+      "y": 1.3523047126380778,
+      "theta": -0.015027204420244633
+    },
+    {
+      "x": 0.5149735844806723,
+      "y": 0.992592423774852,
+      "theta": -0.015027209902553906
+    },
+    {
+      "x": -1.9946119145354773,
+      "y": 0.40501818451156496,
+      "theta": -0.015027363489597434
+    },
+    {
+      "x": 2.0391804111805207,
+      "y": 0.34439673526825104,
+      "theta": -0.015027275690262076
+    },
+    {
+      "x": -1.0153602033041704,
+      "y": -1.0145642192138782,
+      "theta": -0.015027259243335145
+    },
+    {
+      "x": 0.9846426906499253,
+      "y": -1.0294012228422564,
+      "theta": -0.015027292137189452
+    },
+    {
+      "x": 0.5245358193520043,
+      "y": -2.0386248068835435,
+      "theta": -0.0019932540361100592
+    }
+  ],
+  "provenance": {
+    "kind": "source_derived_warm_start",
+    "source": "https://minmaxarena.com/data/tilted-squares-in-circle.json",
+    "source_instance": "p05-n18-v2",
+    "source_generated_at": "2026-10-30T03:31:35.676Z",
+    "source_holder": "zzzcy",
+    "source_method": "ai",
+    "source_recorded_at": "2026-10-05T16:13:06.628Z",
+    "source_sha256": "dcdde6596727278445f190ca38a85ee0de4fb952c9bc5b9ae4999dbacbeb0fb9",
+    "license": "CC-BY-4.0",
+    "attribution": "MinMax Arena and the named record holder; originating construction credited separately by Erich Friedman catalogue",
+    "transformation": "Subtract circle center (1,1); divide centers and radius by the shortest published square side; replace every square by a concentric unit square in its published orientation. Floating seed only; exact checker must repair and certify.",
+    "certification": "not_certified",
+    "original_full_precision_incumbent": false
+  }
+}
